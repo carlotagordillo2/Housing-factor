@@ -47,4 +47,4 @@
 |------------|------------------------------------------|
 | **Bruno** | [GitHub Profile](https://github.com/member1) |
 | **Carlota Gordillo** | [GitHub Profile](https://github.com/carlotagordillo2) |
-| **Javier Mora** | [GitHub Profile] (https://github.com/jmorsal) |
+| **Javier Mora** | [GitHub Profile](https://github.com/jmorsal) |
