@@ -115,3 +115,31 @@ def no_definido_habitaciones(df):
     axis=1)
     
     return df
+
+municipios_top_20 = ["Madrid", "Barcelona", "Valencia", "Sevilla", "Zaragoza", "Málaga", "Murcia", "Palma", "Las Palmas de Gran Canaria", "Alacant/Alicante","Bilbao", "Córdoba", "Valladolid", "Vigo","L´Hospitalet de Llobregat","Gijón", "Vitoria-Gasteiz", "A Coruña", "Elche/Elx", "Granada"]
+
+
+def comprobar(df_ciudades1): 
+    ciudades_df = list(set(df_ciudades1['Ciudad'].to_list()))
+
+    for ciu in ciudades_df: 
+        
+        if ciu not in municipios_top_20: 
+            print(ciu)
+            
+def unificar_ciudades(df):
+    
+    df['Ciudad'] = df['Ciudad'].replace({
+    "Gijon": "Gijón", 
+    "Elche Elx": "Elche/Elx", 
+    "Malaga": "Málaga", 
+    "Palma De Mallorca": "Palma",
+    "A Coruna": "A Coruña", 
+    "Cordoba": "Córdoba", 
+    "Las Palmas De Gran Canaria": "Las Palmas de Gran Canaria", 
+    "Hospitalet De Llobregat": "L´Hospitalet de Llobregat", 
+    "Alicante Alacant": "Alacant/Alicante", 
+    "Vitoria Gasteiz": "Vitoria-Gasteiz"
+})
+    
+    return df
