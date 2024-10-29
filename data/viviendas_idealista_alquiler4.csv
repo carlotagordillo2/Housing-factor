@@ -1,318 +1,629 @@
 Vivienda;Precio;Numero habitaciones;Metros cuadrados;Ciudad;Zona;Barrio;Garaje;Descripcion;Regimen
-Piso en calle Cartagena, El Carmen, Murcia;600;1 hab.;40 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Estudio en Diego Hernandez, El Carmen, Murcia;450;no definido;35 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Regidor Alonso Fajardo, 4, El Carmen, Murcia;595;2 hab.;50 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;800;3 hab.;115 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Llanos, El Carmen, Murcia;855;2 hab.;80 m²;murcia;sur;el-carmen;Garaje incluido;Planta 2ª con ascensor;Alquiler
-Piso en calle Princesa, El Carmen, Murcia;1150;3 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Cartagena, El Carmen, Murcia;500;1 hab.;35 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, 7, El Carmen, Murcia;900;4 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;800;3 hab.;112 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 1 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en paseo Fotógrafo Verdú, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Hortelanos, El Carmen, Murcia;800;2 hab.;82 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en alameda de Capuchinos, El Carmen, Murcia;1000;4 hab.;105 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Santa Úrsula, El Carmen, Murcia;800;2 hab.;80 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, 16, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;850;3 hab.;90 m²;murcia;sur;el-carmen;No;Bajo exterior con ascensor;Alquiler
-Piso en calle Floridablanca, 70, El Carmen, Murcia;700;2 hab.;83 m²;murcia;sur;el-carmen;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo gil, 35, El Carmen, Murcia;700;4 hab.;120 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Conde del Campillo, 2, El Carmen, Murcia;550;1 hab.;50 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;1150;4 hab.;106 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Floridablanca, 62, El Carmen, Murcia;800;1 hab.;118 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Juan Antonio Hernández del Águila, 4, El Carmen, Murcia;600;1 hab.;65 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en paseo Fotógrafo Verdú, 2, El Carmen, Murcia;1900;4 hab.;180 m²;murcia;sur;el-carmen;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Goya, 1, El Carmen, Murcia;650;3 hab.;85 m²;murcia;sur;el-carmen;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle Madre Elisea Oliver Molina, 2, El Carmen, Murcia;850;2 hab.;70 m²;murcia;sur;el-carmen;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, El Carmen, Murcia;550;1 hab.;45 m²;murcia;sur;el-carmen;No;Planta 5ª interior con ascensor;Alquiler
-Piso en calle Nicaragua, 1, El Carmen, Murcia;900;3 hab.;105 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Torre de Romo, 30, El Carmen, Murcia;800;2 hab.;60 m²;murcia;sur;el-carmen;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Torre de Romo, 30, El Carmen, Murcia;800;2 hab.;60 m²;murcia;sur;el-carmen;No;Planta 2ª exterior sin ascensor;Alquiler
-Estudio en avenida Río Segura, 9, El Carmen, Murcia;800;no definido;40 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Floridablanca, 56, El Carmen, Murcia;800;2 hab.;55 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Cartagena, El Carmen, Murcia;600;1 hab.;40 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Estudio en Diego Hernandez, El Carmen, Murcia;450;no definido;35 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Regidor Alonso Fajardo, 4, El Carmen, Murcia;595;2 hab.;50 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;800;3 hab.;115 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Llanos, El Carmen, Murcia;855;2 hab.;80 m²;murcia;sur;el-carmen;Garaje incluido;Planta 2ª con ascensor;Alquiler
-Piso en calle Princesa, El Carmen, Murcia;1150;3 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Cartagena, El Carmen, Murcia;500;1 hab.;35 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, 7, El Carmen, Murcia;900;4 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;800;3 hab.;112 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 1 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en paseo Fotógrafo Verdú, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Hortelanos, El Carmen, Murcia;800;2 hab.;82 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en alameda de Capuchinos, El Carmen, Murcia;1000;4 hab.;105 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Santa Úrsula, El Carmen, Murcia;800;2 hab.;80 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, 16, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;850;3 hab.;90 m²;murcia;sur;el-carmen;No;Bajo exterior con ascensor;Alquiler
-Piso en calle Floridablanca, 70, El Carmen, Murcia;700;2 hab.;83 m²;murcia;sur;el-carmen;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Conde del Campillo, 2, El Carmen, Murcia;550;1 hab.;50 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo gil, 35, El Carmen, Murcia;700;4 hab.;120 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;1150;4 hab.;106 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Floridablanca, 62, El Carmen, Murcia;800;1 hab.;118 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Juan Antonio Hernández del Águila, 4, El Carmen, Murcia;600;1 hab.;65 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en paseo Fotógrafo Verdú, 2, El Carmen, Murcia;1900;4 hab.;180 m²;murcia;sur;el-carmen;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Goya, 1, El Carmen, Murcia;650;3 hab.;85 m²;murcia;sur;el-carmen;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle Madre Elisea Oliver Molina, 2, El Carmen, Murcia;850;2 hab.;70 m²;murcia;sur;el-carmen;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, El Carmen, Murcia;550;1 hab.;45 m²;murcia;sur;el-carmen;No;Planta 5ª interior con ascensor;Alquiler
-Piso en calle Torre de Romo, 30, El Carmen, Murcia;800;2 hab.;60 m²;murcia;sur;el-carmen;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Nicaragua, 1, El Carmen, Murcia;900;3 hab.;105 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Cartagena, El Carmen, Murcia;600;1 hab.;40 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Estudio en Diego Hernandez, El Carmen, Murcia;450;no definido;35 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Regidor Alonso Fajardo, 4, El Carmen, Murcia;595;2 hab.;50 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;800;3 hab.;115 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Llanos, El Carmen, Murcia;855;2 hab.;80 m²;murcia;sur;el-carmen;Garaje incluido;Planta 2ª con ascensor;Alquiler
-Piso en calle Princesa, El Carmen, Murcia;1150;3 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Cartagena, El Carmen, Murcia;500;1 hab.;35 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, 7, El Carmen, Murcia;900;4 hab.;95 m²;murcia;sur;el-carmen;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;800;3 hab.;112 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 1 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en paseo Fotógrafo Verdú, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Hortelanos, El Carmen, Murcia;800;2 hab.;82 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en alameda de Capuchinos, El Carmen, Murcia;1000;4 hab.;105 m²;murcia;sur;el-carmen;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Santa Úrsula, El Carmen, Murcia;800;2 hab.;80 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Jumilla, 16, El Carmen, Murcia;890;2 hab.;75 m²;murcia;sur;el-carmen;Garaje opc. 100 €/mes;Planta 1ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;850;3 hab.;90 m²;murcia;sur;el-carmen;No;Bajo exterior con ascensor;Alquiler
-Piso en calle Floridablanca, 70, El Carmen, Murcia;700;2 hab.;83 m²;murcia;sur;el-carmen;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Conde del Campillo, 2, El Carmen, Murcia;550;1 hab.;50 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Ricardo gil, 35, El Carmen, Murcia;700;4 hab.;120 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en El Carmen, Murcia;1400;4 hab.;117 m²;murcia;sur;el-carmen;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle San Fernando, El Carmen, Murcia;1150;4 hab.;106 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Floridablanca, 62, El Carmen, Murcia;800;1 hab.;118 m²;murcia;sur;el-carmen;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Juan Antonio Hernández del Águila, 4, El Carmen, Murcia;600;1 hab.;65 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en paseo Fotógrafo Verdú, 2, El Carmen, Murcia;1900;4 hab.;180 m²;murcia;sur;el-carmen;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Goya, 1, El Carmen, Murcia;650;3 hab.;85 m²;murcia;sur;el-carmen;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle Madre Elisea Oliver Molina, 2, El Carmen, Murcia;850;2 hab.;70 m²;murcia;sur;el-carmen;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Ricardo Gil, El Carmen, Murcia;550;1 hab.;45 m²;murcia;sur;el-carmen;No;Planta 5ª interior con ascensor;Alquiler
-Piso en calle Nicaragua, 1, El Carmen, Murcia;900;3 hab.;105 m²;murcia;sur;el-carmen;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Torre de Romo, 30, El Carmen, Murcia;800;2 hab.;60 m²;murcia;sur;el-carmen;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en camino Hondo, 69, La Purísima-Barriomar, Murcia;700;3 hab.;115 m²;murcia;sur;la-purisima-barriomar;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Estudio en La Purísima-Barriomar, Murcia;450;no definido;40 m²;murcia;sur;la-purisima-barriomar;No;Bajo exterior con ascensor;Alquiler
-Piso en avenida Ciudad de Almería, s/n, La Purísima-Barriomar, Murcia;350;1 hab.;30 m²;murcia;sur;la-purisima-barriomar;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en La Purísima-Barriomar, Murcia;550;1 hab.;70 m²;murcia;sur;la-purisima-barriomar;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en camino Hondo, 69, La Purísima-Barriomar, Murcia;700;3 hab.;115 m²;murcia;sur;la-purisima-barriomar;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Estudio en La Purísima-Barriomar, Murcia;450;no definido;40 m²;murcia;sur;la-purisima-barriomar;No;Bajo exterior con ascensor;Alquiler
-Piso en avenida Ciudad de Almería, s/n, La Purísima-Barriomar, Murcia;350;1 hab.;30 m²;murcia;sur;la-purisima-barriomar;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en La Purísima-Barriomar, Murcia;550;1 hab.;70 m²;murcia;sur;la-purisima-barriomar;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en camino Hondo, 69, La Purísima-Barriomar, Murcia;700;3 hab.;115 m²;murcia;sur;la-purisima-barriomar;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Estudio en La Purísima-Barriomar, Murcia;450;no definido;40 m²;murcia;sur;la-purisima-barriomar;No;Bajo exterior con ascensor;Alquiler
-Piso en avenida Ciudad de Almería, s/n, La Purísima-Barriomar, Murcia;350;1 hab.;30 m²;murcia;sur;la-purisima-barriomar;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en La Purísima-Barriomar, Murcia;550;1 hab.;70 m²;murcia;sur;la-purisima-barriomar;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en camino Hondo, 69, La Purísima-Barriomar, Murcia;700;3 hab.;115 m²;murcia;sur;la-purisima-barriomar;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Estudio en La Purísima-Barriomar, Murcia;450;no definido;40 m²;murcia;sur;la-purisima-barriomar;No;Bajo exterior con ascensor;Alquiler
-Piso en avenida Ciudad de Almería, s/n, La Purísima-Barriomar, Murcia;350;1 hab.;30 m²;murcia;sur;la-purisima-barriomar;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en La Purísima-Barriomar, Murcia;550;1 hab.;70 m²;murcia;sur;la-purisima-barriomar;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1900;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Reina Laura, Pere Garau, Palma de Mallorca;3500;6 hab.;200 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Bajo exterior sin ascensor;Alquiler
-Piso en calle d'Aragó, 34, Pere Garau, Palma de Mallorca;1450;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª interior con ascensor;Alquiler
-Piso en calle Joan Mestre, Pere Garau, Palma de Mallorca;1290;3 hab.;87 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª sin ascensor;Alquiler
-Piso en calle Pere Alcantara Penya, 2, Pere Garau, Palma de Mallorca;1150;2 hab.;70 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle de Gabriel Carbonell, Pere Garau, Palma de Mallorca;1900;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1950;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;3750;4 hab.;166 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 8ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2000;3 hab.;149 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;925;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª exterior con ascensor;Alquiler
-Ático en Pere Garau, Palma de Mallorca;1700;1 hab.;220 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 6ª exterior con ascensor;Alquiler
-Piso en calle Faust Morell, Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1100;1 hab.;60 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1400;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1500;3 hab.;90 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en calle d'Aragó, 34 a, Pere Garau, Palma de Mallorca;2500;3 hab.;120 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 10ª exterior con ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1900;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Reina Laura, Pere Garau, Palma de Mallorca;3500;6 hab.;200 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Bajo exterior sin ascensor;Alquiler
-Piso en calle d'Aragó, 34, Pere Garau, Palma de Mallorca;1450;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª interior con ascensor;Alquiler
-Piso en calle Joan Mestre, Pere Garau, Palma de Mallorca;1290;3 hab.;87 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª sin ascensor;Alquiler
-Piso en calle Pere Alcantara Penya, 2, Pere Garau, Palma de Mallorca;1150;2 hab.;70 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle de Gabriel Carbonell, Pere Garau, Palma de Mallorca;1900;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1950;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;3750;4 hab.;166 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 8ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2000;3 hab.;149 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;925;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª exterior con ascensor;Alquiler
-Ático en Pere Garau, Palma de Mallorca;1700;1 hab.;220 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 6ª exterior con ascensor;Alquiler
-Piso en calle Faust Morell, Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1100;1 hab.;60 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1400;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1500;3 hab.;90 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en calle d'Aragó, 34 a, Pere Garau, Palma de Mallorca;2500;3 hab.;120 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 10ª exterior con ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1900;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Reina Laura, Pere Garau, Palma de Mallorca;3500;6 hab.;200 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Bajo exterior sin ascensor;Alquiler
-Piso en calle d'Aragó, 34, Pere Garau, Palma de Mallorca;1450;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª interior con ascensor;Alquiler
-Piso en calle Joan Mestre, Pere Garau, Palma de Mallorca;1290;3 hab.;87 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª sin ascensor;Alquiler
-Piso en calle Pere Alcantara Penya, 2, Pere Garau, Palma de Mallorca;1150;2 hab.;70 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle de Gabriel Carbonell, Pere Garau, Palma de Mallorca;1900;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1950;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;3750;4 hab.;166 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 8ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2000;3 hab.;149 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;925;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Faust Morell, Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Ático en Pere Garau, Palma de Mallorca;1700;1 hab.;220 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 6ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1100;1 hab.;60 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1400;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1500;3 hab.;90 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en calle d'Aragó, 34 a, Pere Garau, Palma de Mallorca;2500;3 hab.;120 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 10ª exterior con ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1900;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Reina Laura, Pere Garau, Palma de Mallorca;3500;6 hab.;200 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Bajo exterior sin ascensor;Alquiler
-Piso en calle d'Aragó, 34, Pere Garau, Palma de Mallorca;1450;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª interior con ascensor;Alquiler
-Piso en calle Joan Mestre, Pere Garau, Palma de Mallorca;1290;3 hab.;87 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª sin ascensor;Alquiler
-Piso en calle Pere Alcantara Penya, 2, Pere Garau, Palma de Mallorca;1150;2 hab.;70 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle de Gabriel Carbonell, Pere Garau, Palma de Mallorca;1900;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Pere d'Alcàntara Penya, Pere Garau, Palma de Mallorca;1950;3 hab.;114 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;3750;4 hab.;166 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 8ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2000;3 hab.;149 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;925;1 hab.;57 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª exterior con ascensor;Alquiler
-Ático en Pere Garau, Palma de Mallorca;1700;1 hab.;220 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 6ª exterior con ascensor;Alquiler
-Piso en calle Faust Morell, Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1100;1 hab.;60 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 5ª exterior con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;2500;1 hab.;65 m²;palma-de-mallorca;las-avenidas;pere-garau;Garaje incluido;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1400;2 hab.;106 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 3ª con ascensor;Alquiler
-Piso en Pere Garau, Palma de Mallorca;1500;3 hab.;90 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en calle d'Aragó, 34 a, Pere Garau, Palma de Mallorca;2500;3 hab.;120 m²;palma-de-mallorca;las-avenidas;pere-garau;No;Planta 10ª exterior con ascensor;Alquiler
-Dúplex en calle General Bravo, 27, Triana, Las Palmas de Gran Canaria;1500;2 hab.;220 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Munguía, Triana, Las Palmas de Gran Canaria;1150;2 hab.;85 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 10ª exterior con ascensor;Alquiler
-Ático en calle San Nicolás, 16, Triana, Las Palmas de Gran Canaria;2990;3 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1750;1 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Piso en calle Torres, Triana, Las Palmas de Gran Canaria;1300;3 hab.;116 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior con ascensor;Alquiler
-Piso en calle Triana, Triana, Las Palmas de Gran Canaria;990;1 hab.;48 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en avenida Primero de Mayo, 1, Triana, Las Palmas de Gran Canaria;2390;3 hab.;87 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Piso en avenida de Canarias, 8, Triana, Las Palmas de Gran Canaria;2100;2 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
-Piso en calle Primero de Mayo, Triana, Las Palmas de Gran Canaria;1300;3 hab.;140 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Buenos Aires, Triana, Las Palmas de Gran Canaria;900;2 hab.;83 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en General Bravo, Triana, Las Palmas de Gran Canaria;1650;3 hab.;188 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Munguía, 9, Triana, Las Palmas de Gran Canaria;1365;4 hab.;157 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Francisco Gourié, Triana, Las Palmas de Gran Canaria;750;1 hab.;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en Primero De Mayo, 14, Triana, Las Palmas de Gran Canaria;800;no definido;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 100 €/mes;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Maninidra, Triana, Las Palmas de Gran Canaria;1300;3 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en calle Doctor Juan de Padilla, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en avenida Rafael Cabrera, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en avenida Primero de Mayo, 53, Triana, Las Palmas de Gran Canaria;975;3 hab.;94 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 85 €/mes;Planta 2ª exterior con ascensor;Alquiler
-Piso en Triana, s/n, Triana, Las Palmas de Gran Canaria;2500;4 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle de Perdomo, 10, Triana, Las Palmas de Gran Canaria;950;2 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Primero de Mayo, 34, Triana, Las Palmas de Gran Canaria;1400;3 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en calle Cano, 1, Triana, Las Palmas de Gran Canaria;1800;1 hab.;128 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1600;3 hab.;180 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Triana, 19, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 6ª interior con ascensor;Alquiler
-Piso en calle Rafael Cabrera, 16, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Escritor Benito Pérez Galdós, 6, Triana, Las Palmas de Gran Canaria;890;2 hab.;80 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior sin ascensor;Alquiler
-Piso en Triana, Las Palmas de Gran Canaria;1750;2 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle viera y clavijo, 42, Triana, Las Palmas de Gran Canaria;1300;3 hab.;100 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª interior con ascensor;Alquiler
-Dúplex en calle General Bravo, 27, Triana, Las Palmas de Gran Canaria;1500;2 hab.;220 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Munguía, Triana, Las Palmas de Gran Canaria;1150;2 hab.;85 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 10ª exterior con ascensor;Alquiler
-Ático en calle San Nicolás, 16, Triana, Las Palmas de Gran Canaria;2990;3 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1750;1 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Piso en calle Torres, Triana, Las Palmas de Gran Canaria;1300;3 hab.;116 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior con ascensor;Alquiler
-Piso en calle Triana, Triana, Las Palmas de Gran Canaria;990;1 hab.;48 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en avenida Primero de Mayo, 1, Triana, Las Palmas de Gran Canaria;2390;3 hab.;87 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Piso en avenida de Canarias, 8, Triana, Las Palmas de Gran Canaria;2100;2 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
-Piso en calle Primero de Mayo, Triana, Las Palmas de Gran Canaria;1300;3 hab.;140 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Buenos Aires, Triana, Las Palmas de Gran Canaria;900;2 hab.;83 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en General Bravo, Triana, Las Palmas de Gran Canaria;1650;3 hab.;188 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Munguía, 9, Triana, Las Palmas de Gran Canaria;1365;4 hab.;157 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Francisco Gourié, Triana, Las Palmas de Gran Canaria;750;1 hab.;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en Primero De Mayo, 14, Triana, Las Palmas de Gran Canaria;800;no definido;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 100 €/mes;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Doctor Juan de Padilla, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle Maninidra, Triana, Las Palmas de Gran Canaria;1300;3 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en avenida Primero de Mayo, 53, Triana, Las Palmas de Gran Canaria;975;3 hab.;94 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 85 €/mes;Planta 2ª exterior con ascensor;Alquiler
-Piso en Triana, s/n, Triana, Las Palmas de Gran Canaria;2500;4 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle de Perdomo, 10, Triana, Las Palmas de Gran Canaria;950;2 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Primero de Mayo, 34, Triana, Las Palmas de Gran Canaria;1400;3 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en calle Cano, 1, Triana, Las Palmas de Gran Canaria;1800;1 hab.;128 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1600;3 hab.;180 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Triana, 19, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 6ª interior con ascensor;Alquiler
-Piso en calle Rafael Cabrera, 16, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Escritor Benito Pérez Galdós, 6, Triana, Las Palmas de Gran Canaria;890;2 hab.;80 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior sin ascensor;Alquiler
-Piso en Triana, Las Palmas de Gran Canaria;1750;2 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Dúplex en calle General Bravo, 27, Triana, Las Palmas de Gran Canaria;1500;2 hab.;220 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior sin ascensor;Alquiler
-Piso en calle Munguía, Triana, Las Palmas de Gran Canaria;1150;2 hab.;85 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 10ª exterior con ascensor;Alquiler
-Ático en calle San Nicolás, 16, Triana, Las Palmas de Gran Canaria;2990;3 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1750;1 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Piso en calle Torres, Triana, Las Palmas de Gran Canaria;1300;3 hab.;116 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior con ascensor;Alquiler
-Piso en calle Triana, Triana, Las Palmas de Gran Canaria;990;1 hab.;48 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior con ascensor;Alquiler
-Ático en avenida Primero de Mayo, 1, Triana, Las Palmas de Gran Canaria;2390;3 hab.;87 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 7ª exterior con ascensor;Alquiler
-Piso en avenida de Canarias, 8, Triana, Las Palmas de Gran Canaria;2100;2 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
-Piso en calle Buenos Aires, Triana, Las Palmas de Gran Canaria;900;2 hab.;83 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Primero de Mayo, Triana, Las Palmas de Gran Canaria;1300;3 hab.;140 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en General Bravo, Triana, Las Palmas de Gran Canaria;1650;3 hab.;188 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Munguía, 9, Triana, Las Palmas de Gran Canaria;1365;4 hab.;157 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
-Piso en calle Francisco Gourié, Triana, Las Palmas de Gran Canaria;750;1 hab.;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en Primero De Mayo, 14, Triana, Las Palmas de Gran Canaria;800;no definido;50 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 100 €/mes;Planta 5ª exterior con ascensor;Alquiler
-Piso en calle Doctor Juan de Padilla, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle Maninidra, Triana, Las Palmas de Gran Canaria;1300;3 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida Rafael Cabrera, Triana, Las Palmas de Gran Canaria;950;3 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
-Piso en avenida Primero de Mayo, 53, Triana, Las Palmas de Gran Canaria;975;3 hab.;94 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje opc. 85 €/mes;Planta 2ª exterior con ascensor;Alquiler
-Piso en Triana, s/n, Triana, Las Palmas de Gran Canaria;2500;4 hab.;130 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Piso en calle de Perdomo, 10, Triana, Las Palmas de Gran Canaria;950;2 hab.;90 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Ático en calle Cano, 1, Triana, Las Palmas de Gran Canaria;1800;1 hab.;128 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior sin ascensor;Alquiler
-Piso en avenida Primero de Mayo, 34, Triana, Las Palmas de Gran Canaria;1400;3 hab.;160 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 1ª exterior sin ascensor;Alquiler
-Ático en calle General Bravo, Triana, Las Palmas de Gran Canaria;1600;3 hab.;180 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 4ª exterior con ascensor;Alquiler
-Piso en calle Triana, 19, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 6ª interior con ascensor;Alquiler
-Piso en calle Rafael Cabrera, 16, Triana, Las Palmas de Gran Canaria;850;1 hab.;60 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
-Piso en avenida rafael cabrera, 8, Triana, Las Palmas de Gran Canaria;750;1 hab.;55 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Piso en calle Escritor Benito Pérez Galdós, 6, Triana, Las Palmas de Gran Canaria;890;2 hab.;80 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 3ª interior sin ascensor;Alquiler
-Piso en Triana, Las Palmas de Gran Canaria;1750;2 hab.;120 m²;las-palmas-de-gran-canaria;vegueta-triana;triana;No;Planta 2ª exterior con ascensor;Alquiler
-Casa o chalet independiente en Vegueta, Las Palmas de Gran Canaria;4900;6 hab.;576 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;No tiene;Alquiler
-Piso en Vegueta, Las Palmas de Gran Canaria;2500;2 hab.;213 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Ático en Vegueta, Las Palmas de Gran Canaria;3500;3 hab.;256 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Piso en calle Fernando Galván, Vegueta, Las Palmas de Gran Canaria;800;2 hab.;67 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Bajo exterior sin ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1200;1 hab.;88 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior sin ascensor;Alquiler
-Chalet pareado en calle Juan de Quesada, s/n, Vegueta, Las Palmas de Gran Canaria;10000;13 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1500;2 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;980;3 hab.;110 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, 11, Vegueta, Las Palmas de Gran Canaria;900;1 hab.;52 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en paseo de San José, 5, Vegueta, Las Palmas de Gran Canaria;1050;3 hab.;108 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 3ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Juan de Quesada Vegueta, 230, Vegueta, Las Palmas de Gran Canaria;10000;20 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en calle Agustín Millares, 19, Vegueta, Las Palmas de Gran Canaria;1000;3 hab.;75 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 1ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Vegueta, Las Palmas de Gran Canaria;4900;6 hab.;576 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;No tiene;Alquiler
-Piso en Vegueta, Las Palmas de Gran Canaria;2500;2 hab.;213 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Ático en Vegueta, Las Palmas de Gran Canaria;3500;3 hab.;256 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Piso en calle Fernando Galván, Vegueta, Las Palmas de Gran Canaria;800;2 hab.;67 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Bajo exterior sin ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1200;1 hab.;88 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior sin ascensor;Alquiler
-Chalet pareado en calle Juan de Quesada, s/n, Vegueta, Las Palmas de Gran Canaria;10000;13 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1500;2 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;980;3 hab.;110 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, 11, Vegueta, Las Palmas de Gran Canaria;900;1 hab.;52 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en paseo de San José, 5, Vegueta, Las Palmas de Gran Canaria;1050;3 hab.;108 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 3ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Juan de Quesada Vegueta, 230, Vegueta, Las Palmas de Gran Canaria;10000;20 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en calle Agustín Millares, 19, Vegueta, Las Palmas de Gran Canaria;1000;3 hab.;75 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 1ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Vegueta, Las Palmas de Gran Canaria;4900;6 hab.;576 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;No tiene;Alquiler
-Piso en Vegueta, Las Palmas de Gran Canaria;2500;2 hab.;213 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Ático en Vegueta, Las Palmas de Gran Canaria;3500;3 hab.;256 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Piso en calle Fernando Galván, Vegueta, Las Palmas de Gran Canaria;800;2 hab.;67 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Bajo exterior sin ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1200;1 hab.;88 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior sin ascensor;Alquiler
-Chalet pareado en calle Juan de Quesada, s/n, Vegueta, Las Palmas de Gran Canaria;10000;13 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1500;2 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;980;3 hab.;110 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, 11, Vegueta, Las Palmas de Gran Canaria;900;1 hab.;52 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 2ª exterior con ascensor;Alquiler
-Casa o chalet independiente en Juan de Quesada Vegueta, 230, Vegueta, Las Palmas de Gran Canaria;10000;20 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en paseo de San José, 5, Vegueta, Las Palmas de Gran Canaria;1050;3 hab.;108 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 3ª exterior sin ascensor;Alquiler
-Ático en calle Agustín Millares, 19, Vegueta, Las Palmas de Gran Canaria;1000;3 hab.;75 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 1ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Vegueta, Las Palmas de Gran Canaria;4900;6 hab.;576 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;No tiene;Alquiler
-Piso en Vegueta, Las Palmas de Gran Canaria;2500;2 hab.;213 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Ático en Vegueta, Las Palmas de Gran Canaria;3500;3 hab.;256 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No; exterior sin ascensor;Alquiler
-Piso en calle Fernando Galván, Vegueta, Las Palmas de Gran Canaria;800;2 hab.;67 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Bajo exterior sin ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1200;1 hab.;88 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior sin ascensor;Alquiler
-Chalet pareado en calle Juan de Quesada, s/n, Vegueta, Las Palmas de Gran Canaria;10000;13 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;1500;2 hab.;103 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, Vegueta, Las Palmas de Gran Canaria;980;3 hab.;110 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
-Piso en avenida Alcalde Díaz Saavedra Navarro, 11, Vegueta, Las Palmas de Gran Canaria;900;1 hab.;52 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 2ª exterior con ascensor;Alquiler
-Ático en paseo de San José, 5, Vegueta, Las Palmas de Gran Canaria;1050;3 hab.;108 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 3ª exterior sin ascensor;Alquiler
-Casa o chalet independiente en Juan de Quesada Vegueta, 230, Vegueta, Las Palmas de Gran Canaria;10000;20 hab.;700 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;Garaje incluido;No tiene;Alquiler
-Ático en calle Agustín Millares, 19, Vegueta, Las Palmas de Gran Canaria;1000;3 hab.;75 m²;las-palmas-de-gran-canaria;vegueta-triana;vegueta;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en Parque Alcosa, Sevilla;900;3 hab.;108 m²;sevilla;parque-alcosa;parque-alcosa;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Parque Alcosa, Sevilla;900;3 hab.;108 m²;sevilla;parque-alcosa;parque-alcosa;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Parque Alcosa, Sevilla;900;3 hab.;108 m²;sevilla;parque-alcosa;parque-alcosa;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Parque Alcosa, Sevilla;900;3 hab.;108 m²;sevilla;parque-alcosa;parque-alcosa;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle de Julián Ribera, Barrio del Ave, Zaragoza;950;3 hab.;65 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 32, Barrio del Ave, Zaragoza;1395;3 hab.;64 m²;zaragoza;delicias;barrio-del-ave;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 72, Barrio del Ave, Zaragoza;1450;3 hab.;101 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 19ª exterior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;700;2 hab.;80 m²;zaragoza;delicias;barrio-del-ave;No;Planta 1ª interior con ascensor;Alquiler
+Piso en calle de Leonardo Torres Quevedo, 32, Barrio del Ave, Zaragoza;650;3 hab.;70 m²;zaragoza;delicias;barrio-del-ave;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en avenida de Navarra, 50, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª interior con ascensor;Alquiler
+Piso en Barrio del Ave, Zaragoza;645;2 hab.;66 m²;zaragoza;delicias;barrio-del-ave;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle de Julián Ribera, Barrio del Ave, Zaragoza;950;3 hab.;65 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 32, Barrio del Ave, Zaragoza;1395;3 hab.;64 m²;zaragoza;delicias;barrio-del-ave;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 72, Barrio del Ave, Zaragoza;1450;3 hab.;101 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 19ª exterior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;700;2 hab.;80 m²;zaragoza;delicias;barrio-del-ave;No;Planta 1ª interior con ascensor;Alquiler
+Piso en calle de Leonardo Torres Quevedo, 32, Barrio del Ave, Zaragoza;650;3 hab.;70 m²;zaragoza;delicias;barrio-del-ave;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en avenida de Navarra, 50, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª interior con ascensor;Alquiler
+Piso en Barrio del Ave, Zaragoza;645;2 hab.;66 m²;zaragoza;delicias;barrio-del-ave;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle de Julián Ribera, Barrio del Ave, Zaragoza;950;3 hab.;65 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 32, Barrio del Ave, Zaragoza;1395;3 hab.;64 m²;zaragoza;delicias;barrio-del-ave;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 72, Barrio del Ave, Zaragoza;1450;3 hab.;101 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 19ª exterior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;700;2 hab.;80 m²;zaragoza;delicias;barrio-del-ave;No;Planta 1ª interior con ascensor;Alquiler
+Piso en calle de Leonardo Torres Quevedo, 32, Barrio del Ave, Zaragoza;650;3 hab.;70 m²;zaragoza;delicias;barrio-del-ave;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en avenida de Navarra, 50, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª interior con ascensor;Alquiler
+Piso en Barrio del Ave, Zaragoza;645;2 hab.;66 m²;zaragoza;delicias;barrio-del-ave;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle de Julián Ribera, Barrio del Ave, Zaragoza;950;3 hab.;65 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 32, Barrio del Ave, Zaragoza;1395;3 hab.;64 m²;zaragoza;delicias;barrio-del-ave;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Navarra, 72, Barrio del Ave, Zaragoza;1450;3 hab.;101 m²;zaragoza;delicias;barrio-del-ave;Garaje incluido;Planta 19ª exterior con ascensor;Alquiler
+Piso en avenida de Navarra, Barrio del Ave, Zaragoza;700;2 hab.;80 m²;zaragoza;delicias;barrio-del-ave;No;Planta 1ª interior con ascensor;Alquiler
+Piso en calle de Leonardo Torres Quevedo, 32, Barrio del Ave, Zaragoza;650;3 hab.;70 m²;zaragoza;delicias;barrio-del-ave;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en avenida de Navarra, 50, Barrio del Ave, Zaragoza;800;3 hab.;105 m²;zaragoza;delicias;barrio-del-ave;Garaje opc. 90 €/mes;Planta 10ª interior con ascensor;Alquiler
+Piso en Barrio del Ave, Zaragoza;645;2 hab.;66 m²;zaragoza;delicias;barrio-del-ave;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle de Pedro Lucas Gallego, Ciudad Jardín - Parque Roma, Zaragoza;750;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;650;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de la Duquesa de Villahermosa, Ciudad Jardín - Parque Roma, Zaragoza;775;2 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Ávila, 13, Ciudad Jardín - Parque Roma, Zaragoza;660;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, Ciudad Jardín - Parque Roma, Zaragoza;1584;3 hab.;130 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle del Trovador, 15, Ciudad Jardín - Parque Roma, Zaragoza;790;2 hab.;59 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, Ciudad Jardín - Parque Roma, Zaragoza;800;3 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, 21, Ciudad Jardín - Parque Roma, Zaragoza;815;3 hab.;82 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Urbanización Parque Roma, 5, Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, 30, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;85 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Martín Cortés, 12, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;79 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle de Desiderio Escosura, Ciudad Jardín - Parque Roma, Zaragoza;890;3 hab.;71 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Estudio en calle Trovador, 5 -5, Ciudad Jardín - Parque Roma, Zaragoza;1500;no definido;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de José García Sánchez, 15, Ciudad Jardín - Parque Roma, Zaragoza;700;2 hab.;56 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª interior con ascensor;Alquiler
+Piso en puerta Parque Roma C-2 ,3º, 2ª, s/n, Ciudad Jardín - Parque Roma, Zaragoza;1100;4 hab.;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Tarragona, Ciudad Jardín - Parque Roma, Zaragoza;700;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;751;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Pedro Lucas Gallego, Ciudad Jardín - Parque Roma, Zaragoza;750;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;650;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de la Duquesa de Villahermosa, Ciudad Jardín - Parque Roma, Zaragoza;775;2 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Ávila, 13, Ciudad Jardín - Parque Roma, Zaragoza;660;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, Ciudad Jardín - Parque Roma, Zaragoza;1584;3 hab.;130 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, Ciudad Jardín - Parque Roma, Zaragoza;800;3 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle del Trovador, 15, Ciudad Jardín - Parque Roma, Zaragoza;790;2 hab.;59 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, 21, Ciudad Jardín - Parque Roma, Zaragoza;815;3 hab.;82 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Urbanización Parque Roma, 5, Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, 30, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;85 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Martín Cortés, 12, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;79 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle de Desiderio Escosura, Ciudad Jardín - Parque Roma, Zaragoza;890;3 hab.;71 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Estudio en calle Trovador, 5 -5, Ciudad Jardín - Parque Roma, Zaragoza;1500;no definido;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de José García Sánchez, 15, Ciudad Jardín - Parque Roma, Zaragoza;700;2 hab.;56 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª interior con ascensor;Alquiler
+Piso en puerta Parque Roma C-2 ,3º, 2ª, s/n, Ciudad Jardín - Parque Roma, Zaragoza;1100;4 hab.;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Tarragona, Ciudad Jardín - Parque Roma, Zaragoza;700;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;751;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Pedro Lucas Gallego, Ciudad Jardín - Parque Roma, Zaragoza;750;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;650;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de la Duquesa de Villahermosa, Ciudad Jardín - Parque Roma, Zaragoza;775;2 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Ávila, 13, Ciudad Jardín - Parque Roma, Zaragoza;660;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, Ciudad Jardín - Parque Roma, Zaragoza;1584;3 hab.;130 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, Ciudad Jardín - Parque Roma, Zaragoza;800;3 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle del Trovador, 15, Ciudad Jardín - Parque Roma, Zaragoza;790;2 hab.;59 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, 21, Ciudad Jardín - Parque Roma, Zaragoza;815;3 hab.;82 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, 30, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;85 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Urbanización Parque Roma, 5, Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Martín Cortés, 12, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;79 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle de Desiderio Escosura, Ciudad Jardín - Parque Roma, Zaragoza;890;3 hab.;71 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Estudio en calle Trovador, 5 -5, Ciudad Jardín - Parque Roma, Zaragoza;1500;no definido;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de José García Sánchez, 15, Ciudad Jardín - Parque Roma, Zaragoza;700;2 hab.;56 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª interior con ascensor;Alquiler
+Piso en puerta Parque Roma C-2 ,3º, 2ª, s/n, Ciudad Jardín - Parque Roma, Zaragoza;1100;4 hab.;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Tarragona, Ciudad Jardín - Parque Roma, Zaragoza;700;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;751;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Pedro Lucas Gallego, Ciudad Jardín - Parque Roma, Zaragoza;750;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;650;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de la Duquesa de Villahermosa, Ciudad Jardín - Parque Roma, Zaragoza;775;2 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Ávila, 13, Ciudad Jardín - Parque Roma, Zaragoza;660;2 hab.;60 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, Ciudad Jardín - Parque Roma, Zaragoza;1584;3 hab.;130 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle del Trovador, 15, Ciudad Jardín - Parque Roma, Zaragoza;790;2 hab.;59 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, Ciudad Jardín - Parque Roma, Zaragoza;800;3 hab.;65 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Burgos, 21, Ciudad Jardín - Parque Roma, Zaragoza;815;3 hab.;82 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Urbanización Parque Roma, 5, Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Franco y López, 30, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;85 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Martín Cortés, 12, Ciudad Jardín - Parque Roma, Zaragoza;850;3 hab.;79 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle de Desiderio Escosura, Ciudad Jardín - Parque Roma, Zaragoza;890;3 hab.;71 m²;zaragoza;delicias;ciudad-jardin-parque-roma;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Estudio en calle Trovador, 5 -5, Ciudad Jardín - Parque Roma, Zaragoza;1500;no definido;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de José García Sánchez, 15, Ciudad Jardín - Parque Roma, Zaragoza;700;2 hab.;56 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 1ª interior con ascensor;Alquiler
+Piso en puerta Parque Roma C-2 ,3º, 2ª, s/n, Ciudad Jardín - Parque Roma, Zaragoza;1100;4 hab.;110 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Tarragona, Ciudad Jardín - Parque Roma, Zaragoza;700;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;751;3 hab.;80 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Ciudad Jardín - Parque Roma, Zaragoza;750;3 hab.;75 m²;zaragoza;delicias;ciudad-jardin-parque-roma;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;1100;3 hab.;120 m²;zaragoza;delicias;mercado-san-valero;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 20, Mercado San Valero, Zaragoza;700;3 hab.;90 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 50 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Roque, Mercado San Valero, Zaragoza;675;2 hab.;64 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;2 hab.;58 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en paseo de Calanda, 35, Mercado San Valero, Zaragoza;600;1 hab.;62 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, 16, Mercado San Valero, Zaragoza;1192;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;750;3 hab.;80 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;750;1 hab.;45 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle de Marcelino Unceta, Mercado San Valero, Zaragoza;750;3 hab.;66 m²;zaragoza;delicias;mercado-san-valero;No;Entreplanta exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 29, Mercado San Valero, Zaragoza;550;1 hab.;48 m²;zaragoza;delicias;mercado-san-valero;No;Planta 20ª exterior con ascensor;Alquiler
+Piso en Bolivia, 60, Mercado San Valero, Zaragoza;725;2 hab.;70 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 75 €/mes;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle del Padre Manjón, 34, Mercado San Valero, Zaragoza;775;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle del Tenor Gayarre, 4, Mercado San Valero, Zaragoza;750;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Bolivia, 68, Mercado San Valero, Zaragoza;900;4 hab.;110 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en paseo de Calanda, 31, Mercado San Valero, Zaragoza;1300;5 hab.;90 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;1100;3 hab.;120 m²;zaragoza;delicias;mercado-san-valero;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 20, Mercado San Valero, Zaragoza;700;3 hab.;90 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 50 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Roque, Mercado San Valero, Zaragoza;675;2 hab.;64 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;2 hab.;58 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en paseo de Calanda, 35, Mercado San Valero, Zaragoza;600;1 hab.;62 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, 16, Mercado San Valero, Zaragoza;1192;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;750;3 hab.;80 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;750;1 hab.;45 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle de Marcelino Unceta, Mercado San Valero, Zaragoza;750;3 hab.;66 m²;zaragoza;delicias;mercado-san-valero;No;Entreplanta exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 29, Mercado San Valero, Zaragoza;550;1 hab.;48 m²;zaragoza;delicias;mercado-san-valero;No;Planta 20ª exterior con ascensor;Alquiler
+Piso en Bolivia, 60, Mercado San Valero, Zaragoza;725;2 hab.;70 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 75 €/mes;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle del Padre Manjón, 34, Mercado San Valero, Zaragoza;775;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle del Tenor Gayarre, 4, Mercado San Valero, Zaragoza;750;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Bolivia, 68, Mercado San Valero, Zaragoza;900;4 hab.;110 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en paseo de Calanda, 31, Mercado San Valero, Zaragoza;1300;5 hab.;90 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;1100;3 hab.;120 m²;zaragoza;delicias;mercado-san-valero;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 20, Mercado San Valero, Zaragoza;700;3 hab.;90 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 50 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Roque, Mercado San Valero, Zaragoza;675;2 hab.;64 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;2 hab.;58 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en paseo de Calanda, 35, Mercado San Valero, Zaragoza;600;1 hab.;62 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, 16, Mercado San Valero, Zaragoza;1192;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;750;3 hab.;80 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;750;1 hab.;45 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle de Marcelino Unceta, Mercado San Valero, Zaragoza;750;3 hab.;66 m²;zaragoza;delicias;mercado-san-valero;No;Entreplanta exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 29, Mercado San Valero, Zaragoza;550;1 hab.;48 m²;zaragoza;delicias;mercado-san-valero;No;Planta 20ª exterior con ascensor;Alquiler
+Piso en Bolivia, 60, Mercado San Valero, Zaragoza;725;2 hab.;70 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 75 €/mes;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle del Padre Manjón, 34, Mercado San Valero, Zaragoza;775;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle del Tenor Gayarre, 4, Mercado San Valero, Zaragoza;750;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Bolivia, 68, Mercado San Valero, Zaragoza;900;4 hab.;110 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en paseo de Calanda, 31, Mercado San Valero, Zaragoza;1300;5 hab.;90 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;1100;3 hab.;120 m²;zaragoza;delicias;mercado-san-valero;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 20, Mercado San Valero, Zaragoza;700;3 hab.;90 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 50 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Roque, Mercado San Valero, Zaragoza;675;2 hab.;64 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;2 hab.;58 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en paseo de Calanda, 35, Mercado San Valero, Zaragoza;600;1 hab.;62 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;650;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª interior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, 16, Mercado San Valero, Zaragoza;1192;1 hab.;50 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Mercado San Valero, Zaragoza;750;3 hab.;80 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Vicente Berdusán, Mercado San Valero, Zaragoza;750;1 hab.;45 m²;zaragoza;delicias;mercado-san-valero;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle de Marcelino Unceta, Mercado San Valero, Zaragoza;750;3 hab.;66 m²;zaragoza;delicias;mercado-san-valero;No;Entreplanta exterior con ascensor;Alquiler
+Piso en Pablo Sarasate, 29, Mercado San Valero, Zaragoza;550;1 hab.;48 m²;zaragoza;delicias;mercado-san-valero;No;Planta 20ª exterior con ascensor;Alquiler
+Piso en Bolivia, 60, Mercado San Valero, Zaragoza;725;2 hab.;70 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 75 €/mes;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle del Padre Manjón, 34, Mercado San Valero, Zaragoza;775;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle del Tenor Gayarre, 4, Mercado San Valero, Zaragoza;750;3 hab.;85 m²;zaragoza;delicias;mercado-san-valero;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de Bolivia, 68, Mercado San Valero, Zaragoza;900;4 hab.;110 m²;zaragoza;delicias;mercado-san-valero;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en paseo de Calanda, 31, Mercado San Valero, Zaragoza;1300;5 hab.;90 m²;zaragoza;delicias;mercado-san-valero;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle de Don Pedro de Luna, 69, Delicias, Zaragoza;785;2 hab.;51 m²;zaragoza;delicias;delicias;No;Planta 3ª interior con ascensor;Alquiler
+Piso en Delicias, Zaragoza;615;2 hab.;60 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;670;3 hab.;71 m²;zaragoza;delicias;delicias;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle de Borja, 22, Delicias, Zaragoza;670;3 hab.;65 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;595;2 hab.;47 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle de Don Pedro de Luna, 69, Delicias, Zaragoza;785;2 hab.;51 m²;zaragoza;delicias;delicias;No;Planta 3ª interior con ascensor;Alquiler
+Piso en Delicias, Zaragoza;615;2 hab.;60 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;595;2 hab.;47 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle de Borja, 22, Delicias, Zaragoza;670;3 hab.;65 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;670;3 hab.;71 m²;zaragoza;delicias;delicias;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle de Don Pedro de Luna, 69, Delicias, Zaragoza;785;2 hab.;51 m²;zaragoza;delicias;delicias;No;Planta 3ª interior con ascensor;Alquiler
+Piso en Delicias, Zaragoza;615;2 hab.;60 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle de Borja, 22, Delicias, Zaragoza;670;3 hab.;65 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;670;3 hab.;71 m²;zaragoza;delicias;delicias;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;595;2 hab.;47 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle de Don Pedro de Luna, 69, Delicias, Zaragoza;785;2 hab.;51 m²;zaragoza;delicias;delicias;No;Planta 3ª interior con ascensor;Alquiler
+Piso en Delicias, Zaragoza;615;2 hab.;60 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;670;3 hab.;71 m²;zaragoza;delicias;delicias;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Delicias, Zaragoza;595;2 hab.;47 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle de Borja, 22, Delicias, Zaragoza;670;3 hab.;65 m²;zaragoza;delicias;delicias;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;605;2 hab.;57 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Cañizar del Olivar, Parque Delicias - La Bozada, Zaragoza;750;2 hab.;80 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Ramón Salanova, 2, Parque Delicias - La Bozada, Zaragoza;745;3 hab.;65 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;550;1 hab.;40 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;605;2 hab.;57 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Cañizar del Olivar, Parque Delicias - La Bozada, Zaragoza;750;2 hab.;80 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Ramón Salanova, 2, Parque Delicias - La Bozada, Zaragoza;745;3 hab.;65 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;550;1 hab.;40 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;605;2 hab.;57 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Cañizar del Olivar, Parque Delicias - La Bozada, Zaragoza;750;2 hab.;80 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Ramón Salanova, 2, Parque Delicias - La Bozada, Zaragoza;745;3 hab.;65 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;550;1 hab.;40 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;605;2 hab.;57 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Cañizar del Olivar, Parque Delicias - La Bozada, Zaragoza;750;2 hab.;80 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Ramón Salanova, 2, Parque Delicias - La Bozada, Zaragoza;745;3 hab.;65 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Parque Delicias - La Bozada, Zaragoza;550;1 hab.;40 m²;zaragoza;delicias;parque-delicias-la-bozada;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;800;2 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle mármoles, s/n, La Trinidad, Málaga;1050;2 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Casa o chalet independiente en calle Jara, La Trinidad, Málaga;1300;2 hab.;200 m²;malaga;centro;la-trinidad;No;Publicado ayer ;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;1300;3 hab.;140 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, s/n, La Trinidad, Málaga;1200;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Estudio en calle de San Quintín, 39, La Trinidad, Málaga;665;no definido;42 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Dúplex en calle Lemus, La Trinidad, Málaga;800;1 hab.;46 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;995;2 hab.;45 m²;malaga;centro;la-trinidad;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en calle Trinidad, 7, La Trinidad, Málaga;1700;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2400;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2100;1 hab.;69 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, La Trinidad, Málaga;800;1 hab.;68 m²;malaga;centro;la-trinidad;No;Bajo exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;3 hab.;98 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Trinidad, La Trinidad, Málaga;1400;2 hab.;115 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;2 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Churruca, La Trinidad, Málaga;2100;2 hab.;69 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en calle la Regente, La Trinidad, Málaga;790;2 hab.;70 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle Barrera de la Trinidad, La Trinidad, Málaga;875;2 hab.;90 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 1ª exterior sin ascensor;Alquiler
+Piso en Av de Fatima, La Trinidad, Málaga;800;1 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, La Trinidad, Málaga;900;2 hab.;80 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1200;2 hab.;58 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1650;2 hab.;64 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1100;1 hab.;53 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en La Trinidad, Málaga;850;1 hab.;40 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en plaza de Bailén, La Trinidad, Málaga;1100;3 hab.;81 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Ventura Rodríguez, 11, La Trinidad, Málaga;940;1 hab.;37 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Ático en calle Mazarredo, 1, La Trinidad, Málaga;1400;1 hab.;120 m²;malaga;centro;la-trinidad;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en pasaje Zambrana, 3, La Trinidad, Málaga;910;1 hab.;65 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, 21, La Trinidad, Málaga;1300;3 hab.;84 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle de San Quintín, 42, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, 14, La Trinidad, Málaga;980;1 hab.;58 m²;malaga;centro;la-trinidad;No;Planta 5ª exterior con ascensor;Alquiler
+Ático en avenida de Barcelona, 18, La Trinidad, Málaga;1400;3 hab.;120 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Estudio en calle de San Quintín, 56, La Trinidad, Málaga;850;no definido;30 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior con ascensor;Alquiler
+Dúplex en calle Lemus, 8, La Trinidad, Málaga;850;1 hab.;40 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Malasaña, 59, La Trinidad, Málaga;1000;2 hab.;62 m²;malaga;centro;la-trinidad;No;Bajo exterior con ascensor;Alquiler
+Casa o chalet independiente en calle Jara, 23, La Trinidad, Málaga;1300;2 hab.;200 m²;malaga;centro;la-trinidad;No;No tiene;Alquiler
+Piso en calle pelayo, 2, La Trinidad, Málaga;900;2 hab.;65 m²;malaga;centro;la-trinidad;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en calle Doctor Fleming, 10, La Trinidad, Málaga;1400;4 hab.;125 m²;malaga;centro;la-trinidad;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Trinidad, 85, La Trinidad, Málaga;1000;3 hab.;110 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en La Trinidad, Málaga;800;2 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle mármoles, s/n, La Trinidad, Málaga;1050;2 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Casa o chalet independiente en calle Jara, La Trinidad, Málaga;1300;2 hab.;200 m²;malaga;centro;la-trinidad;No;Publicado ayer ;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;1300;3 hab.;140 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, s/n, La Trinidad, Málaga;1200;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Estudio en calle de San Quintín, 39, La Trinidad, Málaga;665;no definido;42 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Dúplex en calle Lemus, La Trinidad, Málaga;800;1 hab.;46 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;995;2 hab.;45 m²;malaga;centro;la-trinidad;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en calle Trinidad, 7, La Trinidad, Málaga;1700;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2400;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2100;1 hab.;69 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, La Trinidad, Málaga;800;1 hab.;68 m²;malaga;centro;la-trinidad;No;Bajo exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;3 hab.;98 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Trinidad, La Trinidad, Málaga;1400;2 hab.;115 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;2 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Churruca, La Trinidad, Málaga;2100;2 hab.;69 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en calle la Regente, La Trinidad, Málaga;790;2 hab.;70 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle Barrera de la Trinidad, La Trinidad, Málaga;875;2 hab.;90 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 1ª exterior sin ascensor;Alquiler
+Piso en Av de Fatima, La Trinidad, Málaga;800;1 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, La Trinidad, Málaga;900;2 hab.;80 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1200;2 hab.;58 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1100;1 hab.;53 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1650;2 hab.;64 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en La Trinidad, Málaga;850;1 hab.;40 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en plaza de Bailén, La Trinidad, Málaga;1100;3 hab.;81 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;800;2 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle mármoles, s/n, La Trinidad, Málaga;1050;2 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Casa o chalet independiente en calle Jara, La Trinidad, Málaga;1300;2 hab.;200 m²;malaga;centro;la-trinidad;No;Publicado ayer ;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;1300;3 hab.;140 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, s/n, La Trinidad, Málaga;1200;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Estudio en calle de San Quintín, 39, La Trinidad, Málaga;665;no definido;42 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Dúplex en calle Lemus, La Trinidad, Málaga;800;1 hab.;46 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Doctor Gálvez Ginachero, La Trinidad, Málaga;995;2 hab.;45 m²;malaga;centro;la-trinidad;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en calle Trinidad, 7, La Trinidad, Málaga;1700;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2400;2 hab.;76 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, 18, La Trinidad, Málaga;2100;1 hab.;69 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Don Juan de Austria, La Trinidad, Málaga;800;1 hab.;68 m²;malaga;centro;la-trinidad;No;Bajo exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;3 hab.;98 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Trinidad, La Trinidad, Málaga;1400;2 hab.;115 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1250;2 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Churruca, La Trinidad, Málaga;2100;2 hab.;69 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle la Regente, La Trinidad, Málaga;790;2 hab.;70 m²;malaga;centro;la-trinidad;No;Bajo exterior sin ascensor;Alquiler
+Piso en Av de Fatima, La Trinidad, Málaga;800;1 hab.;75 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Barrera de la Trinidad, La Trinidad, Málaga;875;2 hab.;90 m²;malaga;centro;la-trinidad;Garaje incluido;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle de San Quintín, La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Mármoles, La Trinidad, Málaga;900;2 hab.;80 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, La Trinidad, Málaga;1200;4 hab.;100 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1200;2 hab.;58 m²;malaga;centro;la-trinidad;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1650;2 hab.;64 m²;malaga;centro;la-trinidad;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Casajara, La Trinidad, Málaga;1100;1 hab.;53 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en La Trinidad, Málaga;1500;1 hab.;60 m²;malaga;centro;la-trinidad;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza de Bailén, La Trinidad, Málaga;1100;3 hab.;81 m²;malaga;centro;la-trinidad;No;Planta 7ª exterior con ascensor;Alquiler
+Dúplex en La Trinidad, Málaga;850;1 hab.;40 m²;malaga;centro;la-trinidad;No;Bajo interior sin ascensor;Alquiler
+Piso en calle Salinas, s/n, Centro Histórico, Málaga;1200;1 hab.;58 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Duque de la Victoria, 8, Centro Histórico, Málaga;1700;2 hab.;80 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1350;2 hab.;110 m²;malaga;centro;centro-historico;No;Planta 4ª con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1199;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1300;1 hab.;56 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1599;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en puerta de Antequera, Centro Histórico, Málaga;880;1 hab.;39 m²;malaga;centro;centro-historico;No;Bajo exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1149;1 hab.;35 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Estudio en calle Pasillo de Santa Isabel, Centro Histórico, Málaga;895;no definido;45 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1275;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Salinas, Centro Histórico, Málaga;1500;1 hab.;80 m²;malaga;centro;centro-historico;No;Planta 3ª interior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;2500;3 hab.;150 m²;malaga;centro;centro-historico;Garaje incluido;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle San José, Centro Histórico, Málaga;1800;3 hab.;85 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Ático en sanchez pastor, 12, Centro Histórico, Málaga;1200;1 hab.;70 m²;malaga;centro;centro-historico;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en Segura, 3, Centro Histórico, Málaga;1400;3 hab.;100 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Marín García, Centro Histórico, Málaga;1350;2 hab.;75 m²;malaga;centro;centro-historico;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Andrés Pérez, s/n, Centro Histórico, Málaga;900;2 hab.;45 m²;malaga;centro;centro-historico;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Granada, Centro Histórico, Málaga;950;1 hab.;55 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Marina, Centro Histórico, Málaga;2600;4 hab.;140 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza de la Merced, Centro Histórico, Málaga;830;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Estudio en Pasillo de Santa Isabel, 1, Centro Histórico, Málaga;825;no definido;35 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en plaza de la Merced, Centro Histórico, Málaga;1140;2 hab.;60 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1500;2 hab.;74 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en plaza de la Merced, Centro Histórico, Málaga;730;no definido;30 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Marqués de Larios, Centro Histórico, Málaga;1515;1 hab.;68 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en plaza de la Merced, Centro Histórico, Málaga;1140;2 hab.;70 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Dúplex en calle Álamos, 40, Centro Histórico, Málaga;1050;1 hab.;65 m²;malaga;centro;centro-historico;No;Planta 2ª interior sin ascensor;Alquiler
+Piso en calle Sebastián Souvirón, Centro Histórico, Málaga;1250;1 hab.;71 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Sánchez Pastor, Centro Histórico, Málaga;4800;6 hab.;280 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;4500;3 hab.;167 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Malaga Centro Historico, s/n, Centro Histórico, Málaga;895;no definido;50 m²;malaga;centro;centro-historico;No;Bajo exterior con ascensor;Alquiler
+Estudio en calle Carretería, 8, Centro Histórico, Málaga;895;no definido;45 m²;malaga;centro;centro-historico;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;1100;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Granada, 3, Centro Histórico, Málaga;1728;2 hab.;83 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Salinas, Centro Histórico, Málaga;1500;1 hab.;80 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en plaza Arriola, 10, Centro Histórico, Málaga;2500;3 hab.;110 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Estudio en calle Sebastián Souvirón, Centro Histórico, Málaga;950;no definido;52 m²;malaga;centro;centro-historico;No;Planta 2ª interior con ascensor;Alquiler
+Piso en plaza de San Francisco, Centro Histórico, Málaga;1100;1 hab.;47 m²;malaga;centro;centro-historico;No;Bajo interior con ascensor;Alquiler
+Piso en calle Marqués de Larios, Centro Histórico, Málaga;7350;5 hab.;350 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Cisneros, Centro Histórico, Málaga;1200;2 hab.;70 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Marqués de Larios, Centro Histórico, Málaga;1600;2 hab.;76 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Granada, 3, Centro Histórico, Málaga;1440;1 hab.;61 m²;malaga;centro;centro-historico;No;Planta 2ª interior con ascensor;Alquiler
+Piso en calle fernan gonzalez, Centro Histórico, Málaga;1300;2 hab.;80 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;1100;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Císter, Centro Histórico, Málaga;2200;3 hab.;106 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Centro Histórico, Málaga;850;no definido;40 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Cisneros, 11, Centro Histórico, Málaga;1200;2 hab.;70 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Zapateros, Málaga, Centro Histórico, Málaga;990;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Marqués de Larios, Centro Histórico, Málaga;1520;1 hab.;66 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Estudio en puerta Nueva, Centro Histórico, Málaga;895;no definido;50 m²;malaga;centro;centro-historico;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Granada, 3, Centro Histórico, Málaga;1485;1 hab.;68 m²;malaga;centro;centro-historico;No;Planta 2ª interior con ascensor;Alquiler
+Piso en calle Granada, 3, Centro Histórico, Málaga;2025;2 hab.;64 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Pedro de Toledo, Centro Histórico, Málaga;1050;1 hab.;60 m²;malaga;centro;centro-historico;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Nosquera, 4, Centro Histórico, Málaga;1000;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1225;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1149;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1099;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;999;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1245;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1099;1 hab.;35 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1245;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1099;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1449;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1099;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1449;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1099;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;999;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en plaza de Uncibay, Centro Histórico, Málaga;3200;1 hab.;110 m²;malaga;centro;centro-historico;Garaje opc. 130 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Piso en San Andres, Centro Histórico, Málaga;1400;3 hab.;110 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1325;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1150;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;899;1 hab.;30 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Juan, Centro Histórico, Málaga;1049;1 hab.;35 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Granada, 3, Centro Histórico, Málaga;2619;2 hab.;85 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Ático en calle Méndez Núñez, Centro Histórico, Málaga;1200;4 hab.;150 m²;malaga;centro;centro-historico;No;Planta 3ª exterior sin ascensor;Alquiler
+Estudio en pasaje Nuestra Señora de los Dolores de San Juan, 5, Centro Histórico, Málaga;875;no definido;50 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en explanada de la estacion - Vialia, 6, Centro Histórico, Málaga;1299;3 hab.;75 m²;malaga;centro;centro-historico;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en calle Nosquera, Centro Histórico, Málaga;1000;1 hab.;46 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Císter, Centro Histórico, Málaga;2200;2 hab.;80 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Comedias, 12, Centro Histórico, Málaga;1350;1 hab.;64 m²;malaga;centro;centro-historico;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en Centro Historico, s/n, Centro Histórico, Málaga;800;2 hab.;60 m²;malaga;centro;centro-historico;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Santa Lucía, Centro Histórico, Málaga;3500;3 hab.;172 m²;malaga;centro;centro-historico;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle San Telmo, s/n, Centro Histórico, Málaga;1200;1 hab.;45 m²;malaga;centro;centro-historico;No;Bajo interior sin ascensor;Alquiler
+Piso en calle Santa Lucía, 1, Centro Histórico, Málaga;2200;2 hab.;120 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Comedias, Centro Histórico, Málaga;1000;1 hab.;48 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Ático en calle Méndez Núñez, Centro Histórico, Málaga;1200;4 hab.;150 m²;malaga;centro;centro-historico;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Granados, Centro Histórico, Málaga;1100;1 hab.;60 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Juan de Padilla, Centro Histórico, Málaga;1500;1 hab.;80 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de las Flores, 3, Centro Histórico, Málaga;1275;2 hab.;85 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en plaza Arriola, Centro Histórico, Málaga;1450;2 hab.;70 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en calle Santa Lucia, 8, Centro Histórico, Málaga;1200;no definido;45 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Granados, Centro Histórico, Málaga;1150;1 hab.;58 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en pasaje Heredia, 1, Centro Histórico, Málaga;15000;3 hab.;300 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Zapateros, Centro Histórico, Málaga;990;1 hab.;65 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1900;1 hab.;90 m²;malaga;centro;centro-historico;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;1100;1 hab.;48 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;1100;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1500;2 hab.;90 m²;malaga;centro;centro-historico;No;Bajo exterior con ascensor;Alquiler
+Piso en puerta del Mar, 9, Centro Histórico, Málaga;1300;4 hab.;95 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Cortina del Muelle, Centro Histórico, Málaga;3500;3 hab.;200 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Ático en Calderón de la Barca, Centro Histórico, Málaga;1200;1 hab.;50 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;1100;1 hab.;47 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Marqués de Larios, Centro Histórico, Málaga;1650;1 hab.;61 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Estudio en calle Fresca, Centro Histórico, Málaga;1100;no definido;43 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Marqués de Larios, Centro Histórico, Málaga;1600;2 hab.;75 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Prim, Centro Histórico, Málaga;2000;3 hab.;115 m²;malaga;centro;centro-historico;Garaje opc. 125 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Piso en plaza arriola, Centro Histórico, Málaga;1650;3 hab.;95 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Tejón y Rodríguez, Centro Histórico, Málaga;3000;3 hab.;150 m²;malaga;centro;centro-historico;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Echegaray, Centro Histórico, Málaga;1650;2 hab.;90 m²;malaga;centro;centro-historico;Garaje opc. 140 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Nosquera, Centro Histórico, Málaga;1000;1 hab.;60 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Andrés Pérez, Centro Histórico, Málaga;1350;3 hab.;130 m²;malaga;centro;centro-historico;No;Planta 1ª exterior sin ascensor;Alquiler
+Ático en Centro Histórico, Málaga;1500;2 hab.;80 m²;malaga;centro;centro-historico;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;4000;3 hab.;200 m²;malaga;centro;centro-historico;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1600;2 hab.;100 m²;malaga;centro;centro-historico;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Aventurero, Centro Histórico, Málaga;1250;2 hab.;80 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Pasillo de Santa Isabel, Centro Histórico, Málaga;895;no definido;50 m²;malaga;centro;centro-historico;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Santa Lucía, 8, Centro Histórico, Málaga;1350;1 hab.;45 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;1300;1 hab.;48 m²;malaga;centro;centro-historico;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Larios, s/n, Centro Histórico, Málaga;10000;6 hab.;200 m²;malaga;centro;centro-historico;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Centro Histórico, Málaga;3400;1 hab.;140 m²;malaga;centro;centro-historico;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1600;3 hab.;122 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Ancha del Carmen, s/n, Perchel sur - El Bulto, Málaga;1400;3 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1600;3 hab.;122 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 6ª exterior con ascensor;Alquiler
+Ático en paseo de los Tilos, 1, Perchel sur - El Bulto, Málaga;1600;3 hab.;81 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en pasaje de noblejas, 5, Perchel sur - El Bulto, Málaga;850;2 hab.;66 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1300;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en calle Angosta del Carmen, Perchel sur - El Bulto, Málaga;1300;3 hab.;110 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Salitre, Perchel sur - El Bulto, Málaga;1100;1 hab.;60 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Salitre, 36, Perchel sur - El Bulto, Málaga;1000;3 hab.;80 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Ayala, Perchel sur - El Bulto, Málaga;1000;2 hab.;80 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1200;3 hab.;70 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en calle Eslava, Perchel sur - El Bulto, Málaga;1500;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en plaza De Toros Vieja, Perchel sur - El Bulto, Málaga;1200;3 hab.;95 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1350;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de Toros Vieja, Perchel sur - El Bulto, Málaga;1100;1 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en calle Montalbán, Perchel sur - El Bulto, Málaga;950;1 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 4ª exterior con ascensor;Alquiler
+Estudio en calle Fernán Núñez, Perchel sur - El Bulto, Málaga;800;no definido;35 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en avenida Avenue de la Aurora, s/n, Perchel sur - El Bulto, Málaga;1400;1 hab.;60 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Salitre, Perchel sur - El Bulto, Málaga;1250;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle la Serna, 5, Perchel sur - El Bulto, Málaga;3135;3 hab.;115 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en Vialia, s/n, Perchel sur - El Bulto, Málaga;1300;3 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª exterior con ascensor;Alquiler
+Estudio en calle Góngora, Perchel sur - El Bulto, Málaga;600;no definido;60 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 9ª exterior con ascensor;Alquiler
+Ático en plaza de la Solidaridad, 1, Perchel sur - El Bulto, Málaga;3000;3 hab.;200 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 11ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, 7, Perchel sur - El Bulto, Málaga;1600;3 hab.;135 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
+Ático en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1790;3 hab.;125 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, Perchel sur - El Bulto, Málaga;1350;2 hab.;85 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1390;1 hab.;54 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Ancha del Carmen, Perchel sur - El Bulto, Málaga;1450;1 hab.;65 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Eslava, 14, Perchel sur - El Bulto, Málaga;1100;1 hab.;64 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en avenida de las Américas, Perchel sur - El Bulto, Málaga;3900;4 hab.;230 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Jovellanos, Perchel sur - El Bulto, Málaga;1200;3 hab.;87 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Ancha del Carmen, 40, Perchel sur - El Bulto, Málaga;1450;1 hab.;65 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en avenida de la Aurora, 15, Perchel sur - El Bulto, Málaga;1300;1 hab.;69 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 5ª exterior con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1350;2 hab.;100 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, s/n, Perchel sur - El Bulto, Málaga;1450;2 hab.;85 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Explanada de la Estación, Perchel sur - El Bulto, Málaga;1400;3 hab.;100 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en calle Angosta del Carmen, Perchel sur - El Bulto, Málaga;1300;3 hab.;119 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 8ª exterior con ascensor;Alquiler
+Piso en Pasillo del Matadero, 7, Perchel sur - El Bulto, Málaga;1900;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, 14, Perchel sur - El Bulto, Málaga;900;1 hab.;55 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, Perchel sur - El Bulto, Málaga;1350;2 hab.;85 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1200;2 hab.;111 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza de la misericordia, Perchel sur - El Bulto, Málaga;1750;4 hab.;128 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
+Piso en plaza de Toros Vieja, Perchel sur - El Bulto, Málaga;3000;1 hab.;50 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Héroe de Sostoa, 12, Perchel sur - El Bulto, Málaga;1600;3 hab.;130 m²;malaga;centro;perchel-sur-el-bulto;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Senador Francisco Román, 2, Perchel sur - El Bulto, Málaga;2000;2 hab.;70 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Angosta del Carmen, Perchel sur - El Bulto, Málaga;1300;3 hab.;105 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 90 €/mes;Planta 8ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, 7, Perchel sur - El Bulto, Málaga;1390;1 hab.;54 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 60 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida de la Aurora, 21, Perchel sur - El Bulto, Málaga;2400;3 hab.;200 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Estudio en calle Góngora, 28, Perchel sur - El Bulto, Málaga;600;no definido;60 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, 7, Perchel sur - El Bulto, Málaga;1390;1 hab.;55 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle San Andrés, 23, Perchel sur - El Bulto, Málaga;1400;1 hab.;67 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en paseo maritimo antonio machado, 8, Perchel sur - El Bulto, Málaga;2000;3 hab.;150 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 150 €/mes;Planta 6ª exterior con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1300;3 hab.;130 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª con ascensor;Alquiler
+Piso en avenida de la Aurora, Perchel sur - El Bulto, Málaga;1400;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Salitre, Perchel sur - El Bulto, Málaga;950;1 hab.;43 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1350;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1850;3 hab.;110 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 6ª con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1200;3 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Explanada de la Estación, Perchel sur - El Bulto, Málaga;1200;3 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Donoso Cortés, Perchel sur - El Bulto, Málaga;1500;3 hab.;82 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, 37, Perchel sur - El Bulto, Málaga;1350;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Estudio en calle Góngora, 24, Perchel sur - El Bulto, Málaga;930;no definido;78 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en calle Explanada de la Estación, 7, Perchel sur - El Bulto, Málaga;1200;3 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, 51, Perchel sur - El Bulto, Málaga;1850;3 hab.;120 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 90 €/mes;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, 6, Perchel sur - El Bulto, Málaga;1500;2 hab.;85 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1600;3 hab.;122 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Ancha del Carmen, s/n, Perchel sur - El Bulto, Málaga;1400;3 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1600;3 hab.;122 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 6ª exterior con ascensor;Alquiler
+Ático en paseo de los Tilos, 1, Perchel sur - El Bulto, Málaga;1600;3 hab.;81 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en pasaje de noblejas, 5, Perchel sur - El Bulto, Málaga;850;2 hab.;66 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1300;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en calle Angosta del Carmen, Perchel sur - El Bulto, Málaga;1300;3 hab.;110 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Salitre, Perchel sur - El Bulto, Málaga;1100;1 hab.;60 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Salitre, 36, Perchel sur - El Bulto, Málaga;1000;3 hab.;80 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Ayala, Perchel sur - El Bulto, Málaga;1000;2 hab.;80 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Perchel sur - El Bulto, Málaga;1200;3 hab.;70 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en calle Eslava, Perchel sur - El Bulto, Málaga;1500;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en plaza De Toros Vieja, Perchel sur - El Bulto, Málaga;1200;3 hab.;95 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Cuarteles, Perchel sur - El Bulto, Málaga;1350;2 hab.;90 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de Toros Vieja, Perchel sur - El Bulto, Málaga;1100;1 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en calle Montalbán, Perchel sur - El Bulto, Málaga;950;1 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 4ª exterior con ascensor;Alquiler
+Estudio en calle Fernán Núñez, Perchel sur - El Bulto, Málaga;800;no definido;35 m²;malaga;centro;perchel-sur-el-bulto;No;Entreplanta exterior con ascensor;Alquiler
+Piso en avenida Avenue de la Aurora, s/n, Perchel sur - El Bulto, Málaga;1400;1 hab.;60 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Salitre, Perchel sur - El Bulto, Málaga;1250;2 hab.;86 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle la Serna, 5, Perchel sur - El Bulto, Málaga;3135;3 hab.;115 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en Vialia, s/n, Perchel sur - El Bulto, Málaga;1300;3 hab.;75 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 8ª exterior con ascensor;Alquiler
+Ático en plaza de la Solidaridad, 1, Perchel sur - El Bulto, Málaga;3000;3 hab.;200 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 11ª exterior con ascensor;Alquiler
+Estudio en calle Góngora, Perchel sur - El Bulto, Málaga;600;no definido;60 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 9ª exterior con ascensor;Alquiler
+Ático en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1790;3 hab.;125 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 10ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, 7, Perchel sur - El Bulto, Málaga;1600;3 hab.;135 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Jacinto Verdaguer, Perchel sur - El Bulto, Málaga;1350;2 hab.;85 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en plaza de la Solidaridad, Perchel sur - El Bulto, Málaga;1390;1 hab.;54 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Ancha del Carmen, Perchel sur - El Bulto, Málaga;1450;1 hab.;65 m²;malaga;centro;perchel-sur-el-bulto;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Eslava, 14, Perchel sur - El Bulto, Málaga;1100;1 hab.;64 m²;malaga;centro;perchel-sur-el-bulto;Garaje opc. 100 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en avenida de las Américas, Perchel sur - El Bulto, Málaga;3900;4 hab.;230 m²;malaga;centro;perchel-sur-el-bulto;Garaje incluido;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Carrión, Málaga, s/n, El Ejido, Málaga;995;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Refino, El Ejido, Málaga;1500;1 hab.;65 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;800;1 hab.;40 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Hurtado, El Ejido, Málaga;950;1 hab.;51 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle San Millán, El Ejido, Málaga;1130;1 hab.;30 m²;malaga;centro;el-ejido;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Carrión, El Ejido, Málaga;1550;3 hab.;105 m²;malaga;centro;el-ejido;No; exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Zaragoza, El Ejido, Málaga;1000;2 hab.;70 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Los Negros, El Ejido, Málaga;1000;1 hab.;45 m²;malaga;centro;el-ejido;Garaje opc. 120 €/mes;Planta 4ª interior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, 3, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, 8, El Ejido, Málaga;1100;1 hab.;44 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;870;3 hab.;80 m²;malaga;centro;el-ejido;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 3ª interior con ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;880;1 hab.;34 m²;malaga;centro;el-ejido;No;Bajo interior sin ascensor;Alquiler
+Estudio en calle Capuchinos, 16, El Ejido, Málaga;1500;no definido;35 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en El Ejido, Málaga;1500;3 hab.;115 m²;malaga;centro;el-ejido;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1350;3 hab.;85 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle paco miranda, 13, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1300;1 hab.;60 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;1500;4 hab.;120 m²;malaga;centro;el-ejido;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza Lex Flavia Malacitana, 12, El Ejido, Málaga;1300;2 hab.;60 m²;malaga;centro;el-ejido;No;Entreplanta interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;950;1 hab.;40 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Carrión, Málaga, s/n, El Ejido, Málaga;995;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Refino, El Ejido, Málaga;1500;1 hab.;65 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;800;1 hab.;40 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Hurtado, El Ejido, Málaga;950;1 hab.;51 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Carrión, El Ejido, Málaga;1550;3 hab.;105 m²;malaga;centro;el-ejido;No; exterior con ascensor;Alquiler
+Piso en calle San Millán, El Ejido, Málaga;1130;1 hab.;30 m²;malaga;centro;el-ejido;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Zaragoza, El Ejido, Málaga;1000;2 hab.;70 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Los Negros, El Ejido, Málaga;1000;1 hab.;45 m²;malaga;centro;el-ejido;Garaje opc. 120 €/mes;Planta 4ª interior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, 3, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, 8, El Ejido, Málaga;1100;1 hab.;44 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;870;3 hab.;80 m²;malaga;centro;el-ejido;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 3ª interior con ascensor;Alquiler
+Estudio en calle Capuchinos, 16, El Ejido, Málaga;1500;no definido;35 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;880;1 hab.;34 m²;malaga;centro;el-ejido;No;Bajo interior sin ascensor;Alquiler
+Piso en El Ejido, Málaga;1500;3 hab.;115 m²;malaga;centro;el-ejido;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1350;3 hab.;85 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle paco miranda, 13, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1300;1 hab.;60 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;1500;4 hab.;120 m²;malaga;centro;el-ejido;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza Lex Flavia Malacitana, 12, El Ejido, Málaga;1300;2 hab.;60 m²;malaga;centro;el-ejido;No;Entreplanta interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;950;1 hab.;40 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Carrión, Málaga, s/n, El Ejido, Málaga;995;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Refino, El Ejido, Málaga;1500;1 hab.;65 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;800;1 hab.;40 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Hurtado, El Ejido, Málaga;950;1 hab.;51 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle San Millán, El Ejido, Málaga;1130;1 hab.;30 m²;malaga;centro;el-ejido;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Carrión, El Ejido, Málaga;1550;3 hab.;105 m²;malaga;centro;el-ejido;No; exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Los Negros, El Ejido, Málaga;1000;1 hab.;45 m²;malaga;centro;el-ejido;Garaje opc. 120 €/mes;Planta 4ª interior con ascensor;Alquiler
+Piso en calle Zaragoza, El Ejido, Málaga;1000;2 hab.;70 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, 3, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, 8, El Ejido, Málaga;1100;1 hab.;44 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;870;3 hab.;80 m²;malaga;centro;el-ejido;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 3ª interior con ascensor;Alquiler
+Estudio en calle Capuchinos, 16, El Ejido, Málaga;1500;no definido;35 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;880;1 hab.;34 m²;malaga;centro;el-ejido;No;Bajo interior sin ascensor;Alquiler
+Piso en El Ejido, Málaga;1500;3 hab.;115 m²;malaga;centro;el-ejido;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1350;3 hab.;85 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle paco miranda, 13, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1300;1 hab.;60 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;1500;4 hab.;120 m²;malaga;centro;el-ejido;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza Lex Flavia Malacitana, 12, El Ejido, Málaga;1300;2 hab.;60 m²;malaga;centro;el-ejido;No;Entreplanta interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;950;1 hab.;40 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Carrión, Málaga, s/n, El Ejido, Málaga;995;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Refino, El Ejido, Málaga;1500;1 hab.;65 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;800;1 hab.;40 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Hurtado, El Ejido, Málaga;950;1 hab.;51 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Carrión, El Ejido, Málaga;1550;3 hab.;105 m²;malaga;centro;el-ejido;No; exterior con ascensor;Alquiler
+Piso en calle San Millán, El Ejido, Málaga;1130;1 hab.;30 m²;malaga;centro;el-ejido;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en Carrera de Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Los Negros, El Ejido, Málaga;1000;1 hab.;45 m²;malaga;centro;el-ejido;Garaje opc. 120 €/mes;Planta 4ª interior con ascensor;Alquiler
+Piso en calle Zaragoza, El Ejido, Málaga;1000;2 hab.;70 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Carrera Capuchinos, 3, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, 8, El Ejido, Málaga;1100;1 hab.;44 m²;malaga;centro;el-ejido;Garaje incluido;Planta 2ª interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;870;3 hab.;80 m²;malaga;centro;el-ejido;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Miguel Bueno Lara, El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Planta 3ª interior con ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;880;1 hab.;34 m²;malaga;centro;el-ejido;No;Bajo interior sin ascensor;Alquiler
+Estudio en calle Capuchinos, 16, El Ejido, Málaga;1500;no definido;35 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en El Ejido, Málaga;1500;3 hab.;115 m²;malaga;centro;el-ejido;Garaje opc. 100 €/mes;Planta 3ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1350;3 hab.;85 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle paco miranda, 13, El Ejido, Málaga;1100;2 hab.;75 m²;malaga;centro;el-ejido;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;1300;1 hab.;60 m²;malaga;centro;el-ejido;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en El Ejido, Málaga;850;1 hab.;50 m²;malaga;centro;el-ejido;No;Bajo exterior sin ascensor;Alquiler
+Piso en calle los Negros, 5, El Ejido, Málaga;1500;4 hab.;120 m²;malaga;centro;el-ejido;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en plaza Lex Flavia Malacitana, 12, El Ejido, Málaga;1300;2 hab.;60 m²;malaga;centro;el-ejido;No;Entreplanta interior con ascensor;Alquiler
+Piso en El Ejido, Málaga;950;1 hab.;40 m²;malaga;centro;el-ejido;No;Bajo exterior con ascensor;Alquiler
