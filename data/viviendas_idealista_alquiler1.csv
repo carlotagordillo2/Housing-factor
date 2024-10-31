@@ -1,0 +1,389 @@
+Vivienda;Precio;Numero habitaciones;Metros cuadrados;Ciudad;Zona;Barrio;Garaje;Descripcion;Regimen
+Piso en El Llano, Gijón;650;2 hab.;74 m²;gijon;el-llano;el-llano;No;Planta 3ª interior;Alquiler
+Piso en El Llano, Gijón;515;2 hab.;55 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida del Llano, El Llano, Gijón;780;3 hab.;99 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Andalucía, 5, El Llano, Gijón;750;2 hab.;77 m²;gijon;el-llano;el-llano;No;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida del Llano, s/n, El Llano, Gijón;625;1 hab.;50 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Río de Oro, El Llano, Gijón;850;3 hab.;90 m²;gijon;el-llano;el-llano;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle María Josefa, El Llano, Gijón;775;2 hab.;80 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Ana María, 2, El Llano, Gijón;850;2 hab.;63 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Saavedra, 63, El Llano, Gijón;700;2 hab.;65 m²;gijon;el-llano;el-llano;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Pedro Pablo, El Llano, Gijón;750;2 hab.;67 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida del Llano, 66, El Llano, Gijón;690;2 hab.;78 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Schulz, 112, El Llano, Gijón;650;2 hab.;58 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en El Llano, Gijón;650;2 hab.;74 m²;gijon;el-llano;el-llano;No;Planta 3ª interior;Alquiler
+Piso en El Llano, Gijón;515;2 hab.;55 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida del Llano, El Llano, Gijón;780;3 hab.;99 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Andalucía, 5, El Llano, Gijón;750;2 hab.;77 m²;gijon;el-llano;el-llano;No;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida del Llano, s/n, El Llano, Gijón;625;1 hab.;50 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Río de Oro, El Llano, Gijón;850;3 hab.;90 m²;gijon;el-llano;el-llano;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle María Josefa, El Llano, Gijón;775;2 hab.;80 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Saavedra, 63, El Llano, Gijón;700;2 hab.;65 m²;gijon;el-llano;el-llano;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Ana María, 2, El Llano, Gijón;850;2 hab.;63 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Pedro Pablo, El Llano, Gijón;750;2 hab.;67 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida del Llano, 66, El Llano, Gijón;690;2 hab.;78 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Schulz, 112, El Llano, Gijón;650;2 hab.;58 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en El Llano, Gijón;650;2 hab.;74 m²;gijon;el-llano;el-llano;No;Planta 3ª interior;Alquiler
+Piso en El Llano, Gijón;515;2 hab.;55 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida del Llano, El Llano, Gijón;780;3 hab.;99 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Andalucía, 5, El Llano, Gijón;750;2 hab.;77 m²;gijon;el-llano;el-llano;No;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida del Llano, s/n, El Llano, Gijón;625;1 hab.;50 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Río de Oro, El Llano, Gijón;850;3 hab.;90 m²;gijon;el-llano;el-llano;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle María Josefa, El Llano, Gijón;775;2 hab.;80 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Saavedra, 63, El Llano, Gijón;700;2 hab.;65 m²;gijon;el-llano;el-llano;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Ana María, 2, El Llano, Gijón;850;2 hab.;63 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Pedro Pablo, El Llano, Gijón;750;2 hab.;67 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida del Llano, 66, El Llano, Gijón;690;2 hab.;78 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Schulz, 112, El Llano, Gijón;650;2 hab.;58 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en El Llano, Gijón;650;2 hab.;74 m²;gijon;el-llano;el-llano;No;Planta 3ª interior;Alquiler
+Piso en El Llano, Gijón;515;2 hab.;55 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida del Llano, El Llano, Gijón;780;3 hab.;99 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Andalucía, 5, El Llano, Gijón;750;2 hab.;77 m²;gijon;el-llano;el-llano;No;Planta 5ª interior con ascensor;Alquiler
+Piso en avenida del Llano, s/n, El Llano, Gijón;625;1 hab.;50 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Río de Oro, El Llano, Gijón;850;3 hab.;90 m²;gijon;el-llano;el-llano;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle María Josefa, El Llano, Gijón;775;2 hab.;80 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Ana María, 2, El Llano, Gijón;850;2 hab.;63 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Saavedra, 63, El Llano, Gijón;700;2 hab.;65 m²;gijon;el-llano;el-llano;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Pedro Pablo, El Llano, Gijón;750;2 hab.;67 m²;gijon;el-llano;el-llano;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida del Llano, 66, El Llano, Gijón;690;2 hab.;78 m²;gijon;el-llano;el-llano;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Schulz, 112, El Llano, Gijón;650;2 hab.;58 m²;gijon;el-llano;el-llano;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Francisco de Paula Jovellanos, 7, El Llano - Pryca, Gijón;750;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;88 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;720;2 hab.;86 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;950;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;825;3 hab.;83 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;92 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;116 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Caveda, 15, El Llano - Pryca, Gijón;700;3 hab.;74 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Doming Garcia Lafuente, El Llano - Pryca, Gijón;670;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;102 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Larra, 15, El Llano - Pryca, Gijón;700;2 hab.;103 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;78 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle la Argandona, 40, El Llano - Pryca, Gijón;750;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Arroyo, 2, El Llano - Pryca, Gijón;775;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Electra, El Llano - Pryca, Gijón;1132;3 hab.;85 m²;gijon;el-llano;el-llano-pryca;No; exterior con ascensor;Alquiler
+Dúplex en calle Azcárraga, 18, El Llano - Pryca, Gijón;800;2 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;1100;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Echegaray, El Llano - Pryca, Gijón;650;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Bellmunt, 21, El Llano - Pryca, Gijón;900;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 44, El Llano - Pryca, Gijón;890;2 hab.;95 m²;gijon;el-llano;el-llano-pryca;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle San José, 66, El Llano - Pryca, Gijón;600;3 hab.;70 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en calle García Blanco, 11, El Llano - Pryca, Gijón;780;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Francisco de Paula Jovellanos, 7, El Llano - Pryca, Gijón;750;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;88 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;720;2 hab.;86 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;950;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;825;3 hab.;83 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;92 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;116 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Caveda, 15, El Llano - Pryca, Gijón;700;3 hab.;74 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Doming Garcia Lafuente, El Llano - Pryca, Gijón;670;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;102 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Larra, 15, El Llano - Pryca, Gijón;700;2 hab.;103 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;78 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle la Argandona, 40, El Llano - Pryca, Gijón;750;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Arroyo, 2, El Llano - Pryca, Gijón;775;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Electra, El Llano - Pryca, Gijón;1132;3 hab.;85 m²;gijon;el-llano;el-llano-pryca;No; exterior con ascensor;Alquiler
+Dúplex en calle Azcárraga, 18, El Llano - Pryca, Gijón;800;2 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;1100;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Echegaray, El Llano - Pryca, Gijón;650;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Bellmunt, 21, El Llano - Pryca, Gijón;900;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 44, El Llano - Pryca, Gijón;890;2 hab.;95 m²;gijon;el-llano;el-llano-pryca;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle San José, 66, El Llano - Pryca, Gijón;600;3 hab.;70 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en calle García Blanco, 11, El Llano - Pryca, Gijón;780;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Francisco de Paula Jovellanos, 7, El Llano - Pryca, Gijón;750;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;88 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;720;2 hab.;86 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;950;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;825;3 hab.;83 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;92 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;116 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Caveda, 15, El Llano - Pryca, Gijón;700;3 hab.;74 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Doming Garcia Lafuente, El Llano - Pryca, Gijón;670;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;102 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Larra, 15, El Llano - Pryca, Gijón;700;2 hab.;103 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;78 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Arroyo, 2, El Llano - Pryca, Gijón;775;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle la Argandona, 40, El Llano - Pryca, Gijón;750;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Electra, El Llano - Pryca, Gijón;1132;3 hab.;85 m²;gijon;el-llano;el-llano-pryca;No; exterior con ascensor;Alquiler
+Dúplex en calle Azcárraga, 18, El Llano - Pryca, Gijón;800;2 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;1100;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Echegaray, El Llano - Pryca, Gijón;650;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Bellmunt, 21, El Llano - Pryca, Gijón;900;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 44, El Llano - Pryca, Gijón;890;2 hab.;95 m²;gijon;el-llano;el-llano-pryca;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle San José, 66, El Llano - Pryca, Gijón;600;3 hab.;70 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en calle García Blanco, 11, El Llano - Pryca, Gijón;780;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Francisco de Paula Jovellanos, 7, El Llano - Pryca, Gijón;750;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;88 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;720;2 hab.;86 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;950;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Cuenca, El Llano - Pryca, Gijón;825;3 hab.;83 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;92 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Manuel Llaneza, El Llano - Pryca, Gijón;850;2 hab.;116 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Caveda, 15, El Llano - Pryca, Gijón;700;3 hab.;74 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Doming Garcia Lafuente, El Llano - Pryca, Gijón;670;2 hab.;80 m²;gijon;el-llano;el-llano-pryca;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;102 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Larra, 15, El Llano - Pryca, Gijón;700;2 hab.;103 m²;gijon;el-llano;el-llano-pryca;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 65, El Llano - Pryca, Gijón;850;2 hab.;78 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Arroyo, 2, El Llano - Pryca, Gijón;775;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle la Argandona, 40, El Llano - Pryca, Gijón;750;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Electra, El Llano - Pryca, Gijón;1132;3 hab.;85 m²;gijon;el-llano;el-llano-pryca;No; exterior con ascensor;Alquiler
+Dúplex en calle Azcárraga, 18, El Llano - Pryca, Gijón;800;2 hab.;90 m²;gijon;el-llano;el-llano-pryca;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en El Llano - Pryca, Gijón;1100;3 hab.;100 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Echegaray, El Llano - Pryca, Gijón;650;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Bellmunt, 21, El Llano - Pryca, Gijón;900;2 hab.;68 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en avenida Manuel Llaneza, 44, El Llano - Pryca, Gijón;890;2 hab.;95 m²;gijon;el-llano;el-llano-pryca;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle García Blanco, 11, El Llano - Pryca, Gijón;780;3 hab.;90 m²;gijon;el-llano;el-llano-pryca;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle San José, 66, El Llano - Pryca, Gijón;600;3 hab.;70 m²;gijon;el-llano;el-llano-pryca;No;Planta 2ª exterior sin ascensor;Alquiler
+Piso en calle San Félix, El Llano Alto, Gijón;550;1 hab.;64 m²;gijon;el-llano;el-llano-alto;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en calle Bélgica, El Llano Alto, Gijón;670;2 hab.;75 m²;gijon;el-llano;el-llano-alto;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Félix, El Llano Alto, Gijón;550;1 hab.;64 m²;gijon;el-llano;el-llano-alto;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en calle Bélgica, El Llano Alto, Gijón;670;2 hab.;75 m²;gijon;el-llano;el-llano-alto;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Félix, El Llano Alto, Gijón;550;1 hab.;64 m²;gijon;el-llano;el-llano-alto;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en calle Bélgica, El Llano Alto, Gijón;670;2 hab.;75 m²;gijon;el-llano;el-llano-alto;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle San Félix, El Llano Alto, Gijón;550;1 hab.;64 m²;gijon;el-llano;el-llano-alto;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en calle Bélgica, El Llano Alto, Gijón;670;2 hab.;75 m²;gijon;el-llano;el-llano-alto;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Castillo de Lantaron, Zabalgana - Ariznabarra, Vitoria-Gasteiz;990;3 hab.;85 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Planta 1ª exterior con ascensor;Alquiler
+Ático en paseo de Moreda de Álava, Zabalgana - Ariznabarra, Vitoria-Gasteiz;1250;2 hab.;90 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Gaztelako Atea, 54, Zabalgana - Ariznabarra, Vitoria-Gasteiz;900;2 hab.;50 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Bajo exterior con ascensor;Alquiler
+Piso en Castillo de Lantaron, Zabalgana - Ariznabarra, Vitoria-Gasteiz;990;3 hab.;85 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Planta 1ª exterior con ascensor;Alquiler
+Ático en paseo de Moreda de Álava, Zabalgana - Ariznabarra, Vitoria-Gasteiz;1250;2 hab.;90 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Gaztelako Atea, 54, Zabalgana - Ariznabarra, Vitoria-Gasteiz;900;2 hab.;50 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Bajo exterior con ascensor;Alquiler
+Piso en Castillo de Lantaron, Zabalgana - Ariznabarra, Vitoria-Gasteiz;990;3 hab.;85 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Planta 1ª exterior con ascensor;Alquiler
+Ático en paseo de Moreda de Álava, Zabalgana - Ariznabarra, Vitoria-Gasteiz;1250;2 hab.;90 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Gaztelako Atea, 54, Zabalgana - Ariznabarra, Vitoria-Gasteiz;900;2 hab.;50 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Bajo exterior con ascensor;Alquiler
+Piso en Castillo de Lantaron, Zabalgana - Ariznabarra, Vitoria-Gasteiz;990;3 hab.;85 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Planta 1ª exterior con ascensor;Alquiler
+Ático en paseo de Moreda de Álava, Zabalgana - Ariznabarra, Vitoria-Gasteiz;1250;2 hab.;90 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Gaztelako Atea, 54, Zabalgana - Ariznabarra, Vitoria-Gasteiz;900;2 hab.;50 m²;vitoria-gasteiz;zabalgana-ariznabarra;zabalgana-ariznabarra;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Francisco Añón, 18, Agra del Orzán - Ventorrillo, a Coruña;1200;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Bajo exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 271 b, Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Agra del Orzán - Ventorrillo, a Coruña;470;no definido;42 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Finisterre, 260 Nb, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;115 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en Alcalde Lens, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Rodrigo Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;3 hab.;121 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Finisterre, Agra del Orzán - Ventorrillo, a Coruña;850;2 hab.;84 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Ático en José Amor López, 3, Agra del Orzán - Ventorrillo, a Coruña;1350;3 hab.;138 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Agra do Orzán, Agra del Orzán - Ventorrillo, a Coruña;1200;5 hab.;140 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;840;4 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en avenida Finisterre, s/n, Agra del Orzán - Ventorrillo, a Coruña;990;3 hab.;100 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Gil Vicente, Agra del Orzán - Ventorrillo, a Coruña;750;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;129 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en ronda Nelle, Agra del Orzán - Ventorrillo, a Coruña;800;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Barcelona, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;76 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª interior con ascensor;Alquiler
+Piso en calle Alcalde Jaime Hervada, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo A. de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en calle Alcalde Salorio Suárez, 10, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Entrepeñas, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Fuente Álamo, Agra del Orzán - Ventorrillo, a Coruña;810;3 hab.;75 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo a Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;130 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;550;1 hab.;54 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 8ª exterior con ascensor;Alquiler
+Piso en calle Gregorio Hernández, 14, Agra del Orzán - Ventorrillo, a Coruña;1200;2 hab.;90 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, Agra del Orzán - Ventorrillo, a Coruña;900;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 284, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;78 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;109 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Gramela, 16, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;120 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;780;3 hab.;88 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;77 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;690;2 hab.;72 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en ronda de outeiro, 232, Agra del Orzán - Ventorrillo, a Coruña;750;no definido;40 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 12ª exterior con ascensor;Alquiler
+Piso en calle Gregorio Hernández, 12, Agra del Orzán - Ventorrillo, a Coruña;1550;4 hab.;140 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 235, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;100 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 236, Agra del Orzán - Ventorrillo, a Coruña;1600;4 hab.;125 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 5ª exterior sin ascensor;Alquiler
+Piso en calle Vila de Negreira, 51, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;75 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Francisco Añón, 18, Agra del Orzán - Ventorrillo, a Coruña;1200;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Bajo exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 271 b, Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Agra del Orzán - Ventorrillo, a Coruña;470;no definido;42 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Finisterre, 260 Nb, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;115 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en Alcalde Lens, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Rodrigo Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;3 hab.;121 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Finisterre, Agra del Orzán - Ventorrillo, a Coruña;850;2 hab.;84 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Ático en José Amor López, 3, Agra del Orzán - Ventorrillo, a Coruña;1350;3 hab.;138 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Agra do Orzán, Agra del Orzán - Ventorrillo, a Coruña;1200;5 hab.;140 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;840;4 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en avenida Finisterre, s/n, Agra del Orzán - Ventorrillo, a Coruña;990;3 hab.;100 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Gil Vicente, Agra del Orzán - Ventorrillo, a Coruña;750;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;129 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en ronda Nelle, Agra del Orzán - Ventorrillo, a Coruña;800;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Barcelona, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;76 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª interior con ascensor;Alquiler
+Piso en calle Rodrigo A. de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Alcalde Jaime Hervada, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Dúplex en calle Alcalde Salorio Suárez, 10, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Entrepeñas, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Fuente Álamo, Agra del Orzán - Ventorrillo, a Coruña;810;3 hab.;75 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo a Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;130 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;550;1 hab.;54 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 8ª exterior con ascensor;Alquiler
+Piso en calle Gregorio Hernández, 14, Agra del Orzán - Ventorrillo, a Coruña;1200;2 hab.;90 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, Agra del Orzán - Ventorrillo, a Coruña;900;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 284, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;78 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;109 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Gramela, 16, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;120 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Francisco Añón, 18, Agra del Orzán - Ventorrillo, a Coruña;1200;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Dúplex en Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Bajo exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 271 b, Agra del Orzán - Ventorrillo, a Coruña;800;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Estudio en Agra del Orzán - Ventorrillo, a Coruña;470;no definido;42 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida Finisterre, 260 Nb, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;115 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 8ª exterior con ascensor;Alquiler
+Piso en Alcalde Lens, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en Rodrigo Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;3 hab.;121 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Finisterre, Agra del Orzán - Ventorrillo, a Coruña;850;2 hab.;84 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Ático en José Amor López, 3, Agra del Orzán - Ventorrillo, a Coruña;1350;3 hab.;138 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 6ª exterior con ascensor;Alquiler
+Piso en calle Agra do Orzán, Agra del Orzán - Ventorrillo, a Coruña;1200;5 hab.;140 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;840;4 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Dúplex en avenida Finisterre, s/n, Agra del Orzán - Ventorrillo, a Coruña;990;3 hab.;100 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Gil Vicente, Agra del Orzán - Ventorrillo, a Coruña;750;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo Alfredo de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;129 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en ronda Nelle, Agra del Orzán - Ventorrillo, a Coruña;800;4 hab.;87 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Barcelona, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;76 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª interior con ascensor;Alquiler
+Piso en calle Rodrigo A. de Santiago, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;112 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Alcalde Jaime Hervada, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;91 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Dúplex en calle Alcalde Salorio Suárez, 10, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;85 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Entrepeñas, Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;80 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Fuente Álamo, Agra del Orzán - Ventorrillo, a Coruña;810;3 hab.;75 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Rodrigo a Santiago, 36, Agra del Orzán - Ventorrillo, a Coruña;950;4 hab.;130 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en calle Gregorio Hernández, 14, Agra del Orzán - Ventorrillo, a Coruña;1200;2 hab.;90 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;550;1 hab.;54 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 8ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, Agra del Orzán - Ventorrillo, a Coruña;900;4 hab.;122 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en calle Almirante Mourelle, Agra del Orzán - Ventorrillo, a Coruña;700;3 hab.;93 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en ronda de Outeiro, 284, Agra del Orzán - Ventorrillo, a Coruña;850;3 hab.;78 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Agra del Orzán - Ventorrillo, a Coruña;900;3 hab.;109 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;Garaje incluido;Planta 9ª exterior con ascensor;Alquiler
+Piso en avenida Gramela, 16, Agra del Orzán - Ventorrillo, a Coruña;800;2 hab.;120 m²;a-coruna;agra-del-orzan-ventorrillo;agra-del-orzan-ventorrillo;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;900;3 hab.;95 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;600;3 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Leandro Soler Román, 47, Carrús Este, Elche / Elx;580;2 hab.;55 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;680;2 hab.;68 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª interior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;650;2 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;900;3 hab.;95 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;600;3 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Leandro Soler Román, 47, Carrús Este, Elche / Elx;580;2 hab.;55 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;680;2 hab.;68 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª interior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;650;2 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;900;3 hab.;95 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;600;3 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Leandro Soler Román, 47, Carrús Este, Elche / Elx;580;2 hab.;55 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;680;2 hab.;68 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª interior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;650;2 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;900;3 hab.;95 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;600;3 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en calle Leandro Soler Román, 47, Carrús Este, Elche / Elx;580;2 hab.;55 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Patricio Ruiz Gómez, Carrús Este, Elche / Elx;680;2 hab.;68 m²;elche-elx;elche-ciudad;carrus-este;No;Planta 2ª interior con ascensor;Alquiler
+Piso en Carrús Este, Elche / Elx;650;2 hab.;80 m²;elche-elx;elche-ciudad;carrus-este;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Margarita Xirgu, Zaidín, Granada;650;2 hab.;70 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida cadiz, 70, Zaidín, Granada;980;4 hab.;104 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 1, Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª interior con ascensor;Alquiler
+Piso en calle Padre Francisco Palau y Quer, Zaidín, Granada;650;1 hab.;52 m²;granada;zaidin;zaidin;No; exterior sin ascensor;Alquiler
+Piso en avenida Pablo Picasso, 18, Zaidín, Granada;625;2 hab.;75 m²;granada;zaidin;zaidin;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;650;1 hab.;65 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 29, Zaidín, Granada;720;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;625;2 hab.;70 m²;granada;zaidin;zaidin;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Félix Rodríguez de la Fuente, 27, Zaidín, Granada;750;2 hab.;85 m²;granada;zaidin;zaidin;Garaje opc. 50 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;Garaje opc. 65 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, Zaidín, Granada;1000;2 hab.;82 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Felix Rodriguez de la Fue, Zaidín, Granada;750;2 hab.;77 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Milán, Zaidín, Granada;800;3 hab.;81 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Pintor Ismael de la Serna, s/n, Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Parque de las Ciencias, Zaidín, Granada;800;3 hab.;73 m²;granada;zaidin;zaidin;Garaje incluido;Planta 2ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;750;2 hab.;100 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Poeta Gracián, 9, Zaidín, Granada;690;3 hab.;80 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida de Dílar, 19, Zaidín, Granada;1000;2 hab.;82 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, s/n, Zaidín, Granada;750;3 hab.;80 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Ático en Zaidín, Granada;650;3 hab.;81 m²;granada;zaidin;zaidin;No;Planta 5ª exterior sin ascensor;Alquiler
+Piso en calle Sicilia, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, 46, Zaidín, Granada;900;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Sicilia, 2, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, Zaidín, Granada;600;2 hab.;55 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Escultor López Azaústre, Zaidín, Granada;1100;4 hab.;107 m²;granada;zaidin;zaidin;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en plaza Virgen de la Luz, 1, Zaidín, Granada;725;2 hab.;82 m²;granada;zaidin;zaidin;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Almuñécar, Zaidín, Granada;750;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 6ª exterior con ascensor;Alquiler
+Piso en avenida de Barcelona, Zaidín, Granada;875;3 hab.;84 m²;granada;zaidin;zaidin;Garaje incluido;Planta 3ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, s/n, Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Chalet adosado en Zaidín, Granada;900;4 hab.;100 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en calle Río Monachil, Zaidín, Granada;800;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Parque de las Ciencias, Zaidín, Granada;650;1 hab.;50 m²;granada;zaidin;zaidin;Garaje incluido;Planta 2ª exterior sin ascensor;Alquiler
+Piso en Placeta Vicente Blasco Ibañez, Zaidín, Granada;650;2 hab.;60 m²;granada;zaidin;zaidin;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;850;2 hab.;91 m²;granada;zaidin;zaidin;Garaje opc. 70 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 1, Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Félix Rodríguez de la Fuente, 23, Zaidín, Granada;750;2 hab.;100 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Ático en calle Fontiveros, 46, Zaidín, Granada;850;3 hab.;89 m²;granada;zaidin;zaidin;No;Planta 10ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Italia, 8, Zaidín, Granada;1300;4 hab.;113 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Ático en Zaidín, Granada;850;3 hab.;89 m²;granada;zaidin;zaidin;No; con ascensor;Alquiler
+Chalet adosado en Zaidín, Granada;1000;4 hab.;100 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en Zaidín, Granada;1200;2 hab.;82 m²;granada;zaidin;zaidin;No;Planta 5ª con ascensor;Alquiler
+Piso en Zaidín, Granada;800;2 hab.;73 m²;granada;zaidin;zaidin;No;Planta 4ª con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;850;2 hab.;75 m²;granada;zaidin;zaidin;Garaje incluido;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 6ª con ascensor;Alquiler
+Piso en calle de los Alayos, 1, Zaidín, Granada;850;3 hab.;90 m²;granada;zaidin;zaidin;Garaje incluido;Planta 4ª con ascensor;Alquiler
+Piso en Zaidín, Granada;800;2 hab.;87 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;950;3 hab.;110 m²;granada;zaidin;zaidin;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 34, Zaidín, Granada;750;2 hab.;70 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en calle Ebro, Zaidín, Granada;750;3 hab.;73 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida de Cadiz, Zaidín, Granada;950;3 hab.;105 m²;granada;zaidin;zaidin;Garaje incluido;Bajo interior con ascensor;Alquiler
+Piso en calle Bernarda Alba, Zaidín, Granada;800;4 hab.;115 m²;granada;zaidin;zaidin;No;Planta 2ª exterior sin ascensor;Alquiler
+Chalet adosado en calle Lima, Zaidín, Granada;750;3 hab.;98 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en avenida Don Bosco, 28, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 3ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;81 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;1000;4 hab.;104 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en Fernando de los Rios, 58, Zaidín, Granada;950;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª con ascensor;Alquiler
+Piso en calle Padre Francisco Palau y Quer, Zaidín, Granada;650;1 hab.;60 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;1100;4 hab.;90 m²;granada;zaidin;zaidin;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Don Bosco, 35, Zaidín, Granada;895;4 hab.;130 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Brasil, 7, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;4 hab.;90 m²;granada;zaidin;zaidin;No;Planta 3ª ;Alquiler
+Piso en Zaidín, Granada;850;2 hab.;104 m²;granada;zaidin;zaidin;No;Planta 1ª con ascensor;Alquiler
+Chalet adosado en calle Torres Molina, Zaidín, Granada;900;3 hab.;160 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en Zaidín, Granada;1100;3 hab.;105 m²;granada;zaidin;zaidin;Garaje incluido;Planta 3ª con ascensor;Alquiler
+Chalet en Zaidín, Granada;850;3 hab.;100 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 5ª ;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;800;3 hab.;105 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Doctor Creus, Zaidín, Granada;900;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 5ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;850;3 hab.;80 m²;granada;zaidin;zaidin;No; exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;690;2 hab.;85 m²;granada;zaidin;zaidin;No;Bajo exterior con ascensor;Alquiler
+Ático en Zaidín, Granada;900;3 hab.;70 m²;granada;zaidin;zaidin;No;Planta 6ª exterior con ascensor;Alquiler
+Chalet adosado en Zaidín, Granada;750;3 hab.;100 m²;granada;zaidin;zaidin;No;No tiene;Alquiler
+Piso en avenida Pablo Picasso, 1, Zaidín, Granada;800;3 hab.;80 m²;granada;zaidin;zaidin;No;Bajo exterior sin ascensor;Alquiler
+Piso en avenida Barcelona, 18, Zaidín, Granada;700;3 hab.;140 m²;granada;zaidin;zaidin;No;Planta 9ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;850;3 hab.;96 m²;granada;zaidin;zaidin;Garaje incluido;Bajo exterior con ascensor;Alquiler
+Piso en calle Covadonga, 6, Zaidín, Granada;800;3 hab.;70 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 1ª ;Alquiler
+Piso en calle Margarita Xirgu, Zaidín, Granada;650;2 hab.;70 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida cadiz, 70, Zaidín, Granada;980;4 hab.;104 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 1, Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª interior con ascensor;Alquiler
+Piso en calle Padre Francisco Palau y Quer, Zaidín, Granada;650;1 hab.;52 m²;granada;zaidin;zaidin;No; exterior sin ascensor;Alquiler
+Piso en avenida Pablo Picasso, 18, Zaidín, Granada;625;2 hab.;75 m²;granada;zaidin;zaidin;No;Planta 3ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;650;1 hab.;65 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, 29, Zaidín, Granada;720;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;625;2 hab.;70 m²;granada;zaidin;zaidin;No;Bajo exterior con ascensor;Alquiler
+Piso en calle Félix Rodríguez de la Fuente, 27, Zaidín, Granada;750;2 hab.;85 m²;granada;zaidin;zaidin;Garaje opc. 50 €/mes;Planta 4ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;Garaje opc. 65 €/mes;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, Zaidín, Granada;1000;2 hab.;82 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Felix Rodriguez de la Fue, Zaidín, Granada;750;2 hab.;77 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Fontiveros, Zaidín, Granada;900;3 hab.;90 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Milán, Zaidín, Granada;800;3 hab.;81 m²;granada;zaidin;zaidin;No;Planta 4ª exterior con ascensor;Alquiler
+Piso en Pintor Ismael de la Serna, s/n, Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en calle Parque de las Ciencias, Zaidín, Granada;800;3 hab.;73 m²;granada;zaidin;zaidin;Garaje incluido;Planta 2ª exterior sin ascensor;Alquiler
+Piso en Zaidín, Granada;750;2 hab.;100 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en calle Poeta Gracián, 9, Zaidín, Granada;690;3 hab.;80 m²;granada;zaidin;zaidin;No;Planta 1ª exterior sin ascensor;Alquiler
+Piso en avenida de Dílar, 19, Zaidín, Granada;1000;2 hab.;82 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, s/n, Zaidín, Granada;750;3 hab.;80 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Ático en Zaidín, Granada;650;3 hab.;81 m²;granada;zaidin;zaidin;No;Planta 5ª exterior sin ascensor;Alquiler
+Piso en calle Fontiveros, 46, Zaidín, Granada;900;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 2ª exterior con ascensor;Alquiler
+Piso en calle Sicilia, 2, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en calle Sicilia, Zaidín, Granada;900;3 hab.;100 m²;granada;zaidin;zaidin;No;Planta 1ª exterior con ascensor;Alquiler
+Piso en avenida de Dílar, Zaidín, Granada;600;2 hab.;55 m²;granada;zaidin;zaidin;No;Planta 4ª exterior sin ascensor;Alquiler
+Piso en plaza Virgen de la Luz, 1, Zaidín, Granada;725;2 hab.;82 m²;granada;zaidin;zaidin;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en calle Escultor López Azaústre, Zaidín, Granada;1100;4 hab.;107 m²;granada;zaidin;zaidin;Garaje incluido;Planta 5ª exterior con ascensor;Alquiler
+Piso en Zaidín, Granada;750;3 hab.;85 m²;granada;zaidin;zaidin;No;Planta 7ª exterior con ascensor;Alquiler
+Piso en avenida Don Bosco, s/n, Zaidín, Granada;800;3 hab.;95 m²;granada;zaidin;zaidin;No;Planta 5ª exterior con ascensor;Alquiler
