@@ -1,1 +1,8 @@
+# Ignore Env variables
 .env
+
+# Ignore all __pycache__ folders
+**/__pycache__/
+
+# Ignore all files without extensions
+*.
