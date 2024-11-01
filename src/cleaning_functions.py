@@ -127,6 +127,15 @@ def comprobar(df_ciudades1):
         if ciu not in municipios_top_20: 
             print(ciu)
             
+
+def comprobar_municipio(df_ciudades1): 
+    ciudades_df = list(set(df_ciudades1['Municipio'].to_list()))
+
+    for ciu in ciudades_df: 
+        
+        if ciu not in municipios_top_20: 
+            print(ciu)
+            
 def unificar_ciudades(df):
     
     df['Ciudad'] = df['Ciudad'].replace({
