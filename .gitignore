@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 .env
 
 data/__pycache__/
+=======
+# Ignore Env variables
+.env
+
+# Ignore all __pycache__ folders
+**/__pycache__/
+
+# Ignore all files without extensions
+*.
+>>>>>>> 388d692fd2656a3c44f5804edb4d0df8ef9da039
