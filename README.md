@@ -1,7 +1,9 @@
-# Proyect-1
+# Housing factor
+**Your gateway to smart real estate investing**
 
 ## Objective 🎯
 
+We focus on collecting information both on the characteristics of housing in our country, through real estate portals, as well as social and cadastral data through official sources.
 
 ## Functionality ⚙️
 
@@ -35,9 +37,33 @@
 
 ## Project Structure 📁
 
+- `files/`: 
+    - `csv/`: 
+- `graficos/`: 
 
+- `src/`: 
+  - `files/datos_para_almacenar/`: Folder to data frame after cleaning process.
+    - `datos_limpios.csv`: final data frame.
+  - `visualization/`: Folder to store Jupyter Notebooks for data visualization.
+  - `clenaning_functions.py`: Python script with utility functions.
+  - `clean_df.ipynb`: Jupyter Notebooks where data frame is cleaning.
+  - `dataframe_ciudades.ipynb`: Jupyter Notebooks where oficials data frame is cleaning, for example Tenencia.csv
+  - `idealista.ipynb`: Jupyther Notebooks where the web scraping process takes place for homes for purchase.
+  - `idealista_alquiler.ipynb`: Jupyther Notebooks where the web scraping process for rental housing takes place.
+- `presentation/`: 
+  - `PDF_presentation/`: Folder to store PDF presentations.
+
+- `.gitignore`: File to specify intentionally untracked files to ignore.
+- `README.md`: File to describe the project and how to set it up.
+- `requirements.txt`: File to list the project dependencies.
 
 ## Project Presentation 🎤
+
+The project findings were presented in a detailed canva presentation, which includes:
+- 📋 An overview of the data analysis process.
+- 🔍 Key insights and visualizations.
+- 📊 Recommendations based on the findings.
+
 
 
 
