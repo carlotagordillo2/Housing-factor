@@ -38,13 +38,15 @@ We focus on collecting information both on the characteristics of housing in our
 ## Project Structure 📁
 
 - `files/`: 
-    - `csv/`: 
-- `graficos/`: 
-
+    - `csv/`: Folder to keep oficial data such as *Año de construcción.csv*.
+    - `viviendas_idealista.csv`: data frame with the result of web scraping for purchase housing.
+    - `viviendas_idealista_alquiler.csv`: data frame with the result of web scraping for renting housing.
+- `graficos/`: Folder with all grahps creates to analyse. All of them have been created in `visualization_df.ipynb` Jupyter Notebook.
 - `src/`: 
   - `files/datos_para_almacenar/`: Folder to data frame after cleaning process.
     - `datos_limpios.csv`: final data frame.
   - `visualization/`: Folder to store Jupyter Notebooks for data visualization.
+     - `visualization_df.ipynb` : Jupyter Notebook with the visualization process. 
   - `clenaning_functions.py`: Python script with utility functions.
   - `clean_df.ipynb`: Jupyter Notebooks where data frame is cleaning.
   - `dataframe_ciudades.ipynb`: Jupyter Notebooks where oficials data frame is cleaning, for example Tenencia.csv
