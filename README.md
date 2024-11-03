@@ -19,10 +19,10 @@
 
 ## Development Process 🚀
 
-1. 📥 **Data Collection**
-2. 🧹 **Data Cleaning**
-3. 🔍 **Data Analysis**
-4. 📊 **Data Visualization**
+1. 📥 **Data Collection**: Web Scaping from Idealista Web and Oficial data from INE, IGN, SS and SEPE.
+2. 🧹 **Data Cleaning**: Drop duplicates, nan values and integrate all data frame. 
+3. 🔍 **Data Analysis**: The main objective of our analysis was to find the best real estate investement among the twenty most poblated towns in Spain, which the following stand out *Barcelona, Madrid, Sevilla, Granada, Córdoba, Las Palmas de Gran Canaria, Elche*. 
+4. 📊 **Data Visualization**: We have done differents graffics with the objective to understand our data. We can hightlight some bar charts which represent the quantity of houses offers (rent and sell) against how the popultation live in these towns (renting or in ownership). Also, there are some graphs which represents the gross housing profitability.
 5. 📝 **Reporting**
 
 ## Results 📊
