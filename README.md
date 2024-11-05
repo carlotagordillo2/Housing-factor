@@ -28,7 +28,7 @@ We aim to provide insights into Spain's real estate market by gathering and anal
 5. 📝 **Reporting**: Summarized key insights into reports for easier reference.
 
 ## Results 📊
-hrough our analysis, we identified several key insights:
+Through our analysis, we identified several key insights:
 
 - **High Demand, Limited Supply**: Major cities like Madrid, Barcelona, Seville, and Málaga exhibit high Social Security affiliation rates but have limited housing availability. This suggests a supply-demand imbalance, making these cities potential targets for new housing developments.
   
